@@ -1,0 +1,101 @@
+name,gender,specialty,survey_count,address,survey_rating
+"Dr. James L. Nodler, MD",M,Obstetrics & Gynecology,93,"{u'line2': u'Boston, MA 02115', u'line1': u'75 Francis St'}",98.0
+"Dr. Bernard J. Logan, MD",M,Obstetrics & Gynecology,176,"{u'line2': u'Medford, MA 02155', u'line1': u'101 Main St Ste 217'}",98.0
+"Dr. Elvis M. Alfonso, MD",M,Obstetrics & Gynecology,108,"{u'line2': u'Jackson Heights, NY 11372', u'line1': u'9001 Roosevelt Ave Ste 2'}",98.0
+"Dr. Michael D. Seidner, MD",M,Obstetrics & Gynecology,63,"{u'line2': u'Maywood, NJ 07607', u'line1': u'113 W Essex St Ste 202'}",94.0
+"Dr. Farzana K. Irani, MD",F,Obstetrics & Gynecology,103,"{u'line2': u'Niskayuna, NY 12309', u'line1': u'2210 Troy Schenectady Rd'}",98.0
+"Dr. Matthias Muenzer, MD",M,Obstetrics & Gynecology,33,"{u'line2': u'Medford, MA 02155', u'line1': u'101 Main St Ste 217'}",100.0
+"Dr. Byungyol Chun, MD",M,Obstetrics & Gynecology,195,"{u'line2': u'Woburn, MA 01801', u'line1': u'444 Washington St Ste 100'}",98.0
+"Dr. Lama Tolaymat, MD",F,Obstetrics & Gynecology,205,"{u'line2': u'Daytona Beach, FL 32117', u'line1': u'1893 N Clyde Morris Blvd Ste 100'}",98.0
+"Dr. Sidiq N. AlDabbagh, MD",M,Obstetrics & Gynecology,61,"{u'line2': u'Miami, FL 33156', u'line1': u'8525 SW 92nd St Ste D16'}",98.0
+"Dr. Sofia Melenevskaya, MD",F,Obstetrics & Gynecology,2,"{u'line2': u'Medway, MA 02053', u'line1': u'74 Main St'}",90.0
+"Dr. Roy Epstein, MD",M,Obstetrics & Gynecology,39,"{u'line2': u'Reading, MA 01867', u'line1': u'30 New Crossing Rd Ste 207'}",90.0
+"Dr. John R. Morton, MD",M,Obstetrics & Gynecology,16,"{u'line2': u'Woonsocket, RI 02895', u'line1': u'255 Cass Ave'}",100.0
+"Dr. Jay Cohen, MD",M,Obstetrics & Gynecology,55,"{u'line2': u'Plantation, FL 33324', u'line1': u'140 SW 84th Ave Ste D'}",96.0
+"Dr. Huseyin Copur, MD",M,Obstetrics & Gynecology,28,"{u'line2': u'Clifton, NJ 07013', u'line1': u'1115 Clifton Ave Ste 104'}",96.0
+"Dr. Supriya Varma, MD",F,Obstetrics & Gynecology,424,"{u'line2': u'Reston, VA 20190', u'line1': u'1860 Town Center Dr Ste 240'}",94.0
+"Dr. Donald W. Whitaker, MD",M,Obstetrics & Gynecology,84,"{u'line2': u'Fort Walton Beach, FL 32547', u'line1': u'924 Mar Walt Dr'}",90.0
+"Dr. Marilu Madrigal, MD",F,Obstetrics & Gynecology,76,"{u'line2': u'Miami, FL 33133', u'line1': u'3659 S Miami Ave Ste 2007'}",94.0
+"Dr. Mahir J. Majid, MD",M,Obstetrics & Gynecology,47,"{u'line2': u'North Bergen, NJ 07047', u'line1': u'7332 Kennedy Blvd'}",92.0
+"Dr. Samuel L. Heering, MD",M,Obstetrics & Gynecology,74,"{u'line2': u'Boca Raton, FL 33428', u'line1': u'9970 Central Park Blvd N Ste 303'}",96.0
+"Dr. George Lazarou, MD",M,Obstetrics & Gynecology,117,"{u'line2': u'Mineola, NY 11501', u'line1': u'120 Mineola Blvd Ste 100'}",100.0
+"Dr. Stavros Lazarou, MD",M,Obstetrics & Gynecology,80,"{u'line2': u'Mineola, NY 11501', u'line1': u'120 Mineola Blvd Ste 100'}",100.0
+"Dr. Isaac E. Sasson, MD",M,Obstetrics & Gynecology,65,"{u'line2': u'Chesterbrook, PA 19087', u'line1': u'945 Chesterbrook Blvd'}",98.0
+"Dr. Joshua A. Weidman, MD",M,Obstetrics & Gynecology,45,"{u'line2': u'Franklin Lakes, NJ 07417', u'line1': u'841 Franklin Ave Ste 5'}",92.0
+"Dr. Jennifer Thulin, MD",F,Obstetrics & Gynecology,5,"{u'line2': u'Medway, MA 02053', u'line1': u'89 Main St'}",28.0
+"Dr. Afarin Greiger, MD",F,Obstetrics & Gynecology,21,"{u'line2': u'Natick, MA 01760', u'line1': u'307 W Central St'}",84.0
+"Dr. Christian S. Pope, DO",M,Obstetrics & Gynecology,35,"{u'line2': u'N Dartmouth, MA 02747', u'line1': u'531 Faunce Corner Rd'}",100.0
+"Dr. Michael J. Wolpmann, MD",M,Obstetrics & Gynecology,129,"{u'line2': u'Venice, FL 34285', u'line1': u'959 E Venice Ave'}",94.0
+"Dr. Daniel E. Levin, MD",M,Obstetrics & Gynecology,46,"{u'line2': u'North Miami, FL 33181', u'line1': u'12550 Biscayne Blvd Ste 604'}",92.0
+"Dr. Marion F. Colas-Lacombe, MD",F,Obstetrics & Gynecology,116,"{u'line2': u'Plantation, FL 33324', u'line1': u'201 NW 82nd Ave Ste 104'}",96.0
+"Dr. Hayley Marshall-Drohan, DO",F,Obstetrics & Gynecology,18,"{u'line2': u'Milford, MA 01757', u'line1': u'91 Water St Fl 2'}",92.0
+"Dr. John Deloge, MD",M,Obstetrics & Gynecology,2,"{u'line2': u'Milford, MA 01757', u'line1': u'14 Prospect St'}",100.0
+"Dr. Jacqueline N. Gutmann, MD",F,Obstetrics & Gynecology,55,"{u'line2': u'Langhorne, PA 19047', u'line1': u'320 Middletown Blvd Ste 303'}",96.0
+"Dr. Khanh-Ha D. Nguyen, MD",F,Obstetrics & Gynecology,71,"{u'line2': u'Towson, MD 21204', u'line1': u'901 Dulaney Valley Rd Ste 616'}",98.0
+"Dr. William F. Ziegler, DO",M,Obstetrics & Gynecology,88,"{u'line2': u'Eatontown, NJ 07724', u'line1': u'234 Industrial Way W'}",94.0
+"Dr. Emil L. Gurshumov, MD",M,Obstetrics & Gynecology,31,"{u'line2': u'New York, NY 10022', u'line1': u'121 E 60th St Apt 1D'}",100.0
+"Dr. Stewart Newman, MD",M,Obstetrics & Gynecology,68,"{u'line2': u'Boynton Beach, FL 33437', u'line1': u'7545 Boynton Beach Blvd'}",98.0
+"Dr. Carlos Sandoval-Herrera, MD",M,Obstetrics & Gynecology,59,"{u'line2': u'Chicago, IL 60608', u'line1': u'1859 S Blue Island Ave'}",98.0
+"Dr. Arash Rahi, MD",M,Obstetrics & Gynecology,36,"{u'line2': u'Hawthorne, NY 10532', u'line1': u'19 Bradhurst Ave Ste 2700'}",98.0
+"Dr. Kenneth A. Levey, MD",M,Obstetrics & Gynecology,81,"{u'line2': u'New York, NY 10038', u'line1': u'90 Maiden Ln'}",92.0
+"Dr. Neda Hashemi, MD",F,Obstetrics & Gynecology,58,"{u'line2': u'Centreville, VA 20121', u'line1': u'14701 Lee Hwy Ste 303'}",88.0
+"Dr. Khushru R. Irani, MD",M,Obstetrics & Gynecology,119,"{u'line2': u'Niskayuna, NY 12309', u'line1': u'2210 Troy Schenectady Rd'}",90.0
+"Dr. Fred F. Rezvani, MD",M,Obstetrics & Gynecology,67,"{u'line2': u'Ridgewood, NJ 07450', u'line1': u'119 Prospect St'}",92.0
+"Dr. Samuel N. Lederman, MD",M,Obstetrics & Gynecology,37,"{u'line2': u'Palm Beach Gardens, FL 33410', u'line1': u'4280 Professional Center Dr Ste 330'}",92.0
+"Dr. Charles G. Haddad, MD",M,Obstetrics & Gynecology,63,"{u'line2': u'Clifton, NJ 07013', u'line1': u'1373 Broad St Ste 308'}",92.0
+"Dr. Pankaj Singhal, MD",M,Obstetrics & Gynecology,45,"{u'line2': u'Amherst, NY 14221', u'line1': u'626 Frankhauser Rd'}",92.0
+"Dr. Aaron Styer, MD",M,Obstetrics & Gynecology,34,"{u'line2': u'Boston, MA 02114', u'line1': u'55 Fruit St Ste 10A'}",96.0
+"Dr. Stephanie S. Bjork, MD",F,Obstetrics & Gynecology,23,"{u'line2': u'Medford, MA 02155', u'line1': u'101 Main St Ste 217'}",86.0
+"Dr. Chukwuma M. Okoroji, MD",M,Obstetrics & Gynecology,43,"{u'line2': u'Tallahassee, FL 32308', u'line1': u'2473 Care Dr Ste 102-103'}",94.0
+"Dr. Ralph Philosophe, MD",M,Obstetrics & Gynecology,18,"{u'line2': u'Foxboro, MA 02035', u'line1': u'18 Washington St Ste 204'}",98.0
+"Dr. Megan Loomer, MD",F,Obstetrics & Gynecology,50,"{u'line2': u'Medford, MA 02155', u'line1': u'101 Main St Ste 217'}",100.0
+"Dr. Timothy J. Hardy, MD",M,Obstetrics & Gynecology,72,"{u'line2': u'Virginia Beach, VA 23452', u'line1': u'3720 Holland Rd Ste 101'}",94.0
+"Dr. Mary Bethoney, MD",F,Obstetrics & Gynecology,15,"{u'line2': u'Framingham, MA 01702', u'line1': u'35 Lincoln St Ste 1'}",84.0
+"Dr. Leonard Digiovanni Jr., DO",M,Obstetrics & Gynecology,11,"{u'line2': u'Milford, MA 01757', u'line1': u'91 Water St Fl 2'}",98.0
+"Dr. Georgia Vasilakis, MD",F,Obstetrics & Gynecology,9,"{u'line2': u'Walpole, MA 02081', u'line1': u'111 Norfolk St'}",72.0
+"Dr. John A. Alton, MD",M,Obstetrics & Gynecology,79,"{u'line2': u'Cleveland, OH 44130', u'line1': u'7255 Old Oak Blvd Ste C202'}",98.0
+"Dr. Elizabeth Ramirez, MD",F,Obstetrics & Gynecology,46,"{u'line2': u'West New York, NJ 07093', u'line1': u'435 57th St'}",78.0
+"Dr. Arthur J. Castelbaum, MD",M,Obstetrics & Gynecology,66,"{u'line2': u'Langhorne, PA 19047', u'line1': u'320 Middletown Blvd Ste 303'}",92.0
+"Dr. Helen Simigiannis, MD",F,Obstetrics & Gynecology,80,"{u'line2': u'East Windsor, NJ 08520', u'line1': u'375 US Highway 130 Ste 103'}",94.0
+"Dr. Steven J. Adashek, MD",M,Obstetrics & Gynecology,47,"{u'line2': u'Lutherville Timonium, MD 21093', u'line1': u'1205 York Rd Ste 12'}",96.0
+"Dr. Robert R. Joseph, MD",M,Obstetrics & Gynecology,7,"{u'line2': u'Framingham, MA 01702', u'line1': u'35 Lincoln St Ste 1'}",100.0
+"Dr. Nicola A. Pemberton, MD",F,Obstetrics & Gynecology,39,"{u'line2': u'Union, NJ 07083', u'line1': u'1000 Galloping Hill Rd Ste 100'}",82.0
+"Dr. Beata Kereszti, MD",F,Obstetrics & Gynecology,14,"{u'line2': u'Milford, MA 01757', u'line1': u'115 Water St Ste 105'}",88.0
+"Dr. Brenda G. Coutinho, MD",F,Obstetrics & Gynecology,29,"{u'line2': u'Milford, MA 01757', u'line1': u'221 E Main St Ste 101'}",62.0
+"Dr. Patrick A. Nosti, MD",M,Obstetrics & Gynecology,71,"{u'line2': u'Shawnee Mission, KS 66204', u'line1': u'8901 W 74th St Ste 280'}",98.0
+"Dr. Susan S. Malley, MD",F,Obstetrics & Gynecology,46,"{u'line2': u'Somers, NY 10589', u'line1': u'340 Route 202 # B'}",86.0
+"Dr. Carl J. Saphier, MD",M,Obstetrics & Gynecology,21,"{u'line2': u'Englewood, NJ 07631', u'line1': u'498 Engle St'}",98.0
+"Dr. Samuel Kaufman, MD",M,Obstetrics & Gynecology,61,"{u'line2': u'Boynton Beach, FL 33437', u'line1': u'7545 Boynton Beach Blvd'}",94.0
+"Dr. Georgine M. Lamvu, MD",F,Obstetrics & Gynecology,62,"{u'line2': u'Orlando, FL 32804', u'line1': u'2415 N Orange Ave Ste 300'}",94.0
+"Dr. Radha Syed, MD",F,Obstetrics & Gynecology,77,"{u'line2': u'Staten Island, NY 10306', u'line1': u'5 Coddington Ave'}",90.0
+"Dr. Susan Beil, MD",F,Obstetrics & Gynecology,51,"{u'line2': u'Boca Raton, FL 33433', u'line1': u'6853 SW 18th St Ste 301'}",94.0
+"Dr. Bret C. Lewis, MD",M,Obstetrics & Gynecology,95,"{u'line2': u'Alpharetta, GA 30005', u'line1': u'11975 Morris Rd Ste 310'}",98.0
+"Dr. Kanwal S. Khan, MD",F,Obstetrics & Gynecology,36,"{u'line2': u'Reston, VA 20190', u'line1': u'1860 Town Center Dr Ste G100'}",82.0
+"Dr. Martin F. Freedman, MD",M,Obstetrics & Gynecology,46,"{u'line2': u'Langhorne, PA 19047', u'line1': u'320 Middletown Blvd Ste 303'}",94.0
+"Dr. David E. Reichman, MD",M,Obstetrics & Gynecology,53,"{u'line2': u'New York, NY 10013', u'line1': u'40 Worth St Rm 401'}",98.0
+"Dr. Joseph L. Castelli, DO",M,Obstetrics & Gynecology,56,"{u'line2': u'King of Prussia, PA 19406', u'line1': u'583 Shoemaker Rd Ste 104'}",82.0
+"Dr. James A. Greenberg, MD",M,Obstetrics & Gynecology,23,"{u'line2': u'Jamaica Plain, MA 02130', u'line1': u'1153 Centre St Ste 36'}",94.0
+"Dr. Yvonne Wolny, MD",F,Obstetrics & Gynecology,25,"{u'line2': u'Chicago, IL 60614', u'line1': u'830 W Diversey Pkwy Ste 200'}",78.0
+"Dr. Christopher J. Walshe, MD",M,Obstetrics & Gynecology,76,"{u'line2': u'Suffolk, VA 23435', u'line1': u'5838 Harbour View Blvd Ste 290'}",90.0
+"Dr. Sandhya Nayak, MD",F,Obstetrics & Gynecology,152,"{u'line2': u'Jackson Heights, NY 11372', u'line1': u'7019 37th Ave'}",88.0
+"Dr. Robert Gottlieb, MD",M,Obstetrics & Gynecology,14,"{u'line2': u'Framingham, MA 01701', u'line1': u'761 Worcester Rd'}",82.0
+"Dr. August A. Bruno Jr., MD",M,Obstetrics & Gynecology,45,"{u'line2': u'Orchard Park, NY 14127', u'line1': u'3900 N Buffalo St'}",88.0
+"Dr. Paul Richer, MD",M,Obstetrics & Gynecology,15,"{u'line2': u'Newton Lower Falls, MA 02462', u'line1': u'2000 Washington St Ste 760'}",100.0
+"Dr. Charles H. Hux, MD",M,Obstetrics & Gynecology,42,"{u'line2': u'Sea Girt, NJ 08750', u'line1': u'2130 Highway 35 Ste 123A'}",86.0
+"Dr. Edgar L. LeClaire, MD",M,Obstetrics & Gynecology,63,"{u'line2': u'Wichita, KS 67208', u'line1': u'3232 E Murdock St'}",98.0
+"Dr. Edmon Jacobson, MD",M,Obstetrics & Gynecology,29,"{u'line2': u'Framingham, MA 01702', u'line1': u'85 Lincoln St Ste 510'}",92.0
+"Dr. Joseph Gauta, MD",M,Obstetrics & Gynecology,248,"{u'line2': u'Naples, FL 34109', u'line1': u'1890 SW Health Pkwy Ste 205'}",96.0
+"Dr. Samuel B. Wolf, DO",M,Obstetrics & Gynecology,48,"{u'line2': u'Panama City, FL 32405', u'line1': u'103 E 23rd St'}",96.0
+"Dr. Karen Jeng, MD",F,Obstetrics & Gynecology,8,"{u'line2': u'Milford, MA 01757', u'line1': u'91 Water St Fl 2'}",96.0
+"Dr. Orlando Santandreu, MD",M,Obstetrics & Gynecology,59,"{u'line2': u'Elmhurst, NY 11375', u'line1': u'102-01 66th Road'}",88.0
+"Dr. Dudley G. Brown Jr., MD",M,Obstetrics & Gynecology,100,"{u'line2': u'Palm Beach Gardens, FL 33410', u'line1': u'3375 Burns Rd Ste 108'}",92.0
+"Dr. Richard Persino, MD",M,Obstetrics & Gynecology,49,"{u'line2': u'Crystal Lake, IL 60014', u'line1': u'750 E Terra Cotta Ave Ste B'}",96.0
+"Dr. Phillip D. McCrary, MD",M,Obstetrics & Gynecology,15,"{u'line2': u'Wellesley Hills, MA 02481', u'line1': u'173 Worcester St Ste 3'}",94.0
+"Dr. Adrian Marimon, MD",M,Obstetrics & Gynecology,60,"{u'line2': u'Miami, FL 33136', u'line1': u'1611 NW 12th Ave'}",84.0
+"Dr. Yasmina Marie Ephrem, MD",F,Obstetrics & Gynecology,42,"{u'line2': u'Paramus, NJ 07652', u'line1': u'1 W Ridgewood Ave Ste 304'}",92.0
+"Dr. Anita K. Das, MD",F,Obstetrics & Gynecology,97,"{u'line2': u'Hendersonville, NC 28792', u'line1': u'27 Doctors Dr'}",96.0
+"Dr. Maria B. Gioia, DO",F,Obstetrics & Gynecology,45,"{u'line2': u'Monroeville, PA 15146', u'line1': u'2550 Mosside Blvd Ste 500'}",96.0
+"Dr. Xiaojing Tao, MD",F,Obstetrics & Gynecology,7,"{u'line2': u'Milford, MA 01757', u'line1': u'321 Fortune Blvd'}",100.0
+"Dr. Manuel Alvarez, MD",M,Obstetrics & Gynecology,45,"{u'line2': u'Hackensack, NJ 07601', u'line1': u'30 Prospect Ave Rm 4121'}",88.0
+"Dr. Raymond C. Lackore, MD",M,Obstetrics & Gynecology,52,"{u'line2': u'Virginia Beach, VA 23454', u'line1': u'1101 First Colonial Rd Ste 100'}",100.0
+"Dr. Raya O. Alnuaimi, DO",F,Obstetrics & Gynecology,12,"{u'line2': u'Haledon, NJ 07508', u'line1': u'397 Haledon Ave Ste 101'}",86.0

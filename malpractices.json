@@ -1,0 +1,108 @@
+{
+  "malpractices": [
+    {
+      "complaint": "Zip Code or County of Event: 10304",
+      "formattedDate": "3/19/2012",
+      "malpracticeType": "Settlement",
+      "rangeOrAmountDisplay": "Above average",
+      "regionName": "New York",
+      "showDate": true,
+      "closedDate": "2012-03-19T00:00:00",
+      "rangeOrAmount": "Above average",
+      "amount": 0.0,
+      "location": {
+        "cityName": "",
+        "cityAndState": "New York",
+        "cityStateZipBestMatch": "New York",
+        "providerCount": 0,
+        "region": {
+          "regionAbbreviation": "NY",
+          "regionName": "New York",
+          "cities": null,
+          "cityInitials": null,
+          "isCountry": false,
+          "zip": "",
+          "coordinates": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "latLon": ""
+          },
+          "nation": "USA",
+          "hasProviders": false,
+          "supressRegionLink": false
+        },
+        "locRegion": {
+          "regionAbbreviation": "NY",
+          "regionName": "New York",
+          "cities": null,
+          "cityInitials": null,
+          "isCountry": false,
+          "zip": "",
+          "coordinates": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "latLon": ""
+          },
+          "nation": "USA",
+          "hasProviders": false,
+          "supressRegionLink": false
+        },
+        "isNeighborhood": false,
+        "regionAbbreviation": "NY"
+      }
+    }
+  ],
+  "sanctions": [
+    {
+      "actionTaken": "Probation",
+      "category": "Gross Negligence",
+      "description": "Please reference the following Document",
+      "formattedDate": "8/18/2016",
+      "location": {
+        "cityName": "",
+        "cityAndState": "New York",
+        "cityStateZipBestMatch": "New York",
+        "providerCount": 0,
+        "region": {
+          "regionAbbreviation": "NY",
+          "regionName": "New York",
+          "cities": null,
+          "cityInitials": null,
+          "isCountry": false,
+          "zip": "",
+          "coordinates": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "latLon": ""
+          },
+          "nation": "USA",
+          "hasProviders": false,
+          "supressRegionLink": false
+        },
+        "locRegion": {
+          "regionAbbreviation": "NY",
+          "regionName": "New York",
+          "cities": null,
+          "cityInitials": null,
+          "isCountry": false,
+          "zip": "",
+          "coordinates": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "latLon": ""
+          },
+          "nation": "USA",
+          "hasProviders": false,
+          "supressRegionLink": false
+        },
+        "isNeighborhood": false,
+        "regionAbbreviation": "NY"
+      },
+      "pdfPath": "https://www.healthgrades.com/media/english/pdf/sanctions/HGPY5346E5FF87564705308182016.pdf",
+      "recipientName": null,
+      "regionName": "New York",
+      "sanctionDate": "2016-08-18T00:00:00",
+      "showDate": true
+    }
+  ]
+}

@@ -1,0 +1,3409 @@
+{
+  "productCode": null,
+  "carePhilosophy": null,
+  "displayStatusCode": "A",
+  "subStatusCode": "1",
+  "acceptsNewPatients": true,
+  "hCardId": "hcard-luke-s-oh",
+  "professionalType": 0,
+  "providerUrl": "/physician/dr-luke-oh-yn6rl",
+  "providerUrlRelative": "/physician/dr-luke-oh-yn6rl",
+  "id": "YN6RL",
+  "suppressSurveys": false,
+  "surveyUserCount": 64,
+  "pesServerError": false,
+  "surveyOverallRatingPercent": 98.0,
+  "surveyOverallRatingScore": 4.9,
+  "isRecommendedProvider": true,
+  "providerResponseToSurveyResults": null,
+  "providerResponseToSurveyResultsDate": null,
+  "regionLicenses": [
+    {
+      "region": {
+        "regionAbbreviation": "MA",
+        "regionName": "Massachusetts",
+        "cities": null,
+        "cityInitials": null,
+        "isCountry": false,
+        "zip": null,
+        "coordinates": null,
+        "nation": "USA",
+        "hasProviders": false,
+        "supressRegionLink": false
+      }
+    },
+    {
+      "region": {
+        "regionAbbreviation": "MA",
+        "regionName": "Massachusetts",
+        "cities": null,
+        "cityInitials": null,
+        "isCountry": false,
+        "zip": null,
+        "coordinates": null,
+        "nation": "USA",
+        "hasProviders": false,
+        "supressRegionLink": false
+      }
+    },
+    {
+      "region": {
+        "regionAbbreviation": "MN",
+        "regionName": "Minnesota",
+        "cities": null,
+        "cityInitials": null,
+        "isCountry": false,
+        "zip": null,
+        "coordinates": null,
+        "nation": "USA",
+        "hasProviders": false,
+        "supressRegionLink": false
+      }
+    },
+    {
+      "region": {
+        "regionAbbreviation": "NY",
+        "regionName": "New York",
+        "cities": null,
+        "cityInitials": null,
+        "isCountry": false,
+        "zip": null,
+        "coordinates": null,
+        "nation": "USA",
+        "hasProviders": false,
+        "supressRegionLink": false
+      }
+    }
+  ],
+  "primaryPracticingSpecialty": {
+    "practicingSpecialityName": "Sports Medicine",
+    "practicingSpecialityCode": "PS901",
+    "practicingSpecialityRank": "1",
+    "practicingSpecialitySearch": 1,
+    "practicingSpecialityNameIst": "Sports Medicine Specialist",
+    "practicingSpecialityNameIsts": "Sports Medicine Specialists",
+    "rollupPracticingSpecialityCode": "PS901",
+    "rollupPracticingSpecialityId": 24,
+    "rollupPracticingSpecialtyGroupCode": "SPMD"
+  },
+  "providerPracticingSpecialties": [
+    {
+      "practicingSpecialityName": "Sports Medicine",
+      "practicingSpecialityCode": "PS901",
+      "practicingSpecialityRank": "1",
+      "practicingSpecialitySearch": 1,
+      "practicingSpecialityNameIst": "Sports Medicine Specialist",
+      "practicingSpecialityNameIsts": "Sports Medicine Specialists",
+      "rollupPracticingSpecialityCode": "PS901",
+      "rollupPracticingSpecialityId": 24,
+      "rollupPracticingSpecialtyGroupCode": "SPMD"
+    },
+    {
+      "practicingSpecialityName": "Sports Medicine Orthopedic Joint Reconstruction",
+      "practicingSpecialityCode": "PS902",
+      "practicingSpecialityRank": "2",
+      "practicingSpecialitySearch": 1,
+      "practicingSpecialityNameIst": "Sports Medicine Orthopedic Joint Reconstruction Specialist",
+      "practicingSpecialityNameIsts": "Sports Medicine Orthopedic Joint Reconstruction Specialists",
+      "rollupPracticingSpecialityCode": "PS901",
+      "rollupPracticingSpecialityId": 24,
+      "rollupPracticingSpecialtyGroupCode": "SPMD"
+    },
+    {
+      "practicingSpecialityName": "Orthopedic Surgery",
+      "practicingSpecialityCode": "PS630",
+      "practicingSpecialityRank": "3",
+      "practicingSpecialitySearch": 1,
+      "practicingSpecialityNameIst": "Orthopedic Surgery Specialist",
+      "practicingSpecialityNameIsts": "Orthopedic Surgery Specialists",
+      "rollupPracticingSpecialityCode": "PS630",
+      "rollupPracticingSpecialityId": 31,
+      "rollupPracticingSpecialtyGroupCode": "ORSR"
+    },
+    {
+      "practicingSpecialityName": "Bone & Joint Non-Surgical Orthopedics",
+      "practicingSpecialityCode": "PS108",
+      "practicingSpecialityRank": "4",
+      "practicingSpecialitySearch": 1,
+      "practicingSpecialityNameIst": "Bone & Joint Orthopedics Specialist",
+      "practicingSpecialityNameIsts": "Bone & Joint Orthopedics Specialists",
+      "rollupPracticingSpecialityCode": "PS630",
+      "rollupPracticingSpecialityId": 31,
+      "rollupPracticingSpecialtyGroupCode": "ORSR"
+    },
+    {
+      "practicingSpecialityName": "Orthopedic Arthroscopy",
+      "practicingSpecialityCode": "PS077",
+      "practicingSpecialityRank": "5",
+      "practicingSpecialitySearch": 1,
+      "practicingSpecialityNameIst": "Orthopedic Arthroscopy Specialist",
+      "practicingSpecialityNameIsts": "Orthopedic Arthroscopy Specialists",
+      "rollupPracticingSpecialityCode": "PS630",
+      "rollupPracticingSpecialityId": 31,
+      "rollupPracticingSpecialtyGroupCode": "ORSR"
+    },
+    {
+      "practicingSpecialityName": "Orthopedic Fracture Care",
+      "practicingSpecialityCode": "PS321",
+      "practicingSpecialityRank": "6",
+      "practicingSpecialitySearch": 1,
+      "practicingSpecialityNameIst": "Orthopedic Fracture Care Specialist",
+      "practicingSpecialityNameIsts": "Orthopedic Fracture Care Specialists",
+      "rollupPracticingSpecialityCode": "PS630",
+      "rollupPracticingSpecialityId": 31,
+      "rollupPracticingSpecialtyGroupCode": "ORSR"
+    },
+    {
+      "practicingSpecialityName": "Orthopedic Knee Surgery",
+      "practicingSpecialityCode": "PS422",
+      "practicingSpecialityRank": "7",
+      "practicingSpecialitySearch": 1,
+      "practicingSpecialityNameIst": "Orthopedic Knee Surgery Specialist",
+      "practicingSpecialityNameIsts": "Orthopedic Knee Surgery Specialists",
+      "rollupPracticingSpecialityCode": "PS630",
+      "rollupPracticingSpecialityId": 31,
+      "rollupPracticingSpecialtyGroupCode": "ORSR"
+    },
+    {
+      "practicingSpecialityName": "Orthopedic Shoulder & Elbow Surgery",
+      "practicingSpecialityCode": "PS1024",
+      "practicingSpecialityRank": "8",
+      "practicingSpecialitySearch": 1,
+      "practicingSpecialityNameIst": "Orthopedic Shoulder & Elbow Surgery Specialist",
+      "practicingSpecialityNameIsts": "Orthopedic Shoulder & Elbow Surgery Specialists",
+      "rollupPracticingSpecialityCode": "PS630",
+      "rollupPracticingSpecialityId": 31,
+      "rollupPracticingSpecialtyGroupCode": "ORSR"
+    }
+  ],
+  "specialties": [
+    {
+      "id": 24,
+      "isPrimarySpecialty": true,
+      "isSearchable": true,
+      "name": "Sports Medicine",
+      "specialistName": "Sports Medicine Specialist",
+      "specialistsName": "Sports Medicine Specialists",
+      "specialtyBoard": null,
+      "specialtyCode": "SPMD",
+      "practicingSpecialtyCode": null,
+      "serviceLines": [
+        {
+          "name": null,
+          "starRating": null,
+          "ratingDisplayYear": null,
+          "procedures": [],
+          "stars": null,
+          "nationalStars": null,
+          "facilityStars": null,
+          "code": "SLORT"
+        }
+      ],
+      "specialtyUrl": null,
+      "description": null,
+      "seoName": null,
+      "seoDirectoryTitleName": null,
+      "priority": 0.0,
+      "procedures": null,
+      "conditions": null,
+      "targetedPriority": 0.0,
+      "title": null,
+      "rank": 0,
+      "adCode": null,
+      "cityStateSearchUrl": null,
+      "rootDirectoryUrl": null,
+      "providerSearchUrl": null,
+      "professionalType": 0,
+      "cssOverride": null
+    },
+    {
+      "id": 31,
+      "isPrimarySpecialty": false,
+      "isSearchable": true,
+      "name": "Orthopedic Surgery",
+      "specialistName": "Orthopedic Surgery Specialist",
+      "specialistsName": "Orthopedic Surgery Specialists",
+      "specialtyBoard": null,
+      "specialtyCode": "ORSR",
+      "practicingSpecialtyCode": null,
+      "serviceLines": [
+        {
+          "name": null,
+          "starRating": null,
+          "ratingDisplayYear": null,
+          "procedures": [],
+          "stars": null,
+          "nationalStars": null,
+          "facilityStars": null,
+          "code": "SLORT"
+        }
+      ],
+      "specialtyUrl": null,
+      "description": null,
+      "seoName": null,
+      "seoDirectoryTitleName": null,
+      "priority": 0.0,
+      "procedures": null,
+      "conditions": null,
+      "targetedPriority": 0.0,
+      "title": null,
+      "rank": 0,
+      "adCode": null,
+      "cityStateSearchUrl": null,
+      "rootDirectoryUrl": null,
+      "providerSearchUrl": null,
+      "professionalType": 0,
+      "cssOverride": null
+    }
+  ],
+  "providerCertifications": [
+    {
+      "certificationCode": "COPSM",
+      "certificationName": "Orthopaedic Sports Medicine",
+      "certificationRank": "",
+      "certificationSearch": "1",
+      "certifyingAuthorityCode": "ABMS",
+      "certifyingAuthorityName": "American Board of Medical Specialties",
+      "certifyingAuthorityBoardCode": "ABORSG",
+      "certifyingAuthorityBoardName": "American Board of Orthopaedic Surgery",
+      "certificationStatusCode": "C",
+      "certificationStatusDescription": "Certified",
+      "certificationEffectiveDate": null,
+      "certificationExpirationDate": null
+    },
+    {
+      "certificationCode": "CORSR",
+      "certificationName": "Orthopedic Surgery",
+      "certificationRank": "",
+      "certificationSearch": "1",
+      "certifyingAuthorityCode": "ABMS",
+      "certifyingAuthorityName": "American Board of Medical Specialties",
+      "certifyingAuthorityBoardCode": "ABORSG",
+      "certifyingAuthorityBoardName": "American Board of Orthopaedic Surgery",
+      "certificationStatusCode": "C",
+      "certificationStatusDescription": "Certified",
+      "certificationEffectiveDate": null,
+      "certificationExpirationDate": null
+    }
+  ],
+  "primarySpecialty": {
+    "id": 24,
+    "isPrimarySpecialty": true,
+    "isSearchable": true,
+    "name": "Sports Medicine",
+    "specialistName": "Sports Medicine Specialist",
+    "specialistsName": "Sports Medicine Specialists",
+    "specialtyBoard": null,
+    "specialtyCode": "SPMD",
+    "practicingSpecialtyCode": null,
+    "serviceLines": [
+      {
+        "name": null,
+        "starRating": null,
+        "ratingDisplayYear": null,
+        "procedures": [],
+        "stars": null,
+        "nationalStars": null,
+        "facilityStars": null,
+        "code": "SLORT"
+      }
+    ],
+    "specialtyUrl": null,
+    "description": null,
+    "seoName": null,
+    "seoDirectoryTitleName": null,
+    "priority": 0.0,
+    "procedures": null,
+    "conditions": null,
+    "targetedPriority": 0.0,
+    "title": null,
+    "rank": 0,
+    "adCode": null,
+    "cityStateSearchUrl": null,
+    "rootDirectoryUrl": null,
+    "providerSearchUrl": null,
+    "professionalType": 0,
+    "cssOverride": null
+  },
+  "tipsSpecialty": null,
+  "practices": [
+    {
+      "name": "MASS GENERAL HOSPITAL",
+      "description": "",
+      "medicalDirector": "",
+      "practiceSoftware": "",
+      "webSiteUrls": [],
+      "yearEstablished": 0,
+      "providerCount": 1,
+      "offices": [
+        {
+          "legacyId": "",
+          "otherUniqueId": "",
+          "officeGuid": "4DF14FDC-5175-40E9-AD8D-57C16726D0B7",
+          "name": "MGH Sports Medicine Center",
+          "averagePatientVolume": 0.0,
+          "produceduresOnSite": null,
+          "freeStandingSurgery": false,
+          "hasOnSiteSurgery": false,
+          "officeImageUrl": null,
+          "parking": false,
+          "parkingInfo": "",
+          "officeHours": [],
+          "sponsor": null,
+          "address": {
+            "address1": "175 Cambridge St Ste 400",
+            "address2": "",
+            "officeCode": null,
+            "officeGuid": null,
+            "location": {
+              "cityName": "Boston",
+              "cityAndState": "Boston, MA",
+              "cityStateZipBestMatch": "Boston, MA 02114",
+              "providerCount": 0,
+              "region": {
+                "regionAbbreviation": "MA",
+                "regionName": "Massachusetts",
+                "cities": null,
+                "cityInitials": null,
+                "isCountry": false,
+                "zip": "02114",
+                "coordinates": {
+                  "latitude": 42.361316,
+                  "longitude": -71.06613,
+                  "latLon": "42.361316, -71.06613"
+                },
+                "nation": "USA",
+                "hasProviders": false,
+                "supressRegionLink": false
+              },
+              "locRegion": {
+                "regionAbbreviation": "MA",
+                "regionName": "Massachusetts",
+                "cities": null,
+                "cityInitials": null,
+                "isCountry": false,
+                "zip": "02114",
+                "coordinates": {
+                  "latitude": 42.361316,
+                  "longitude": -71.06613,
+                  "latLon": "42.361316, -71.06613"
+                },
+                "nation": "USA",
+                "hasProviders": false,
+                "supressRegionLink": false
+              },
+              "isNeighborhood": false,
+              "regionAbbreviation": "MA"
+            },
+            "addressCode": "AA74XVM"
+          },
+          "paymentMethodList": [],
+          "phoneNumbers": [
+            {
+              "phoneType": 1,
+              "number": "(508) 718-4035"
+            },
+            {
+              "phoneType": 2,
+              "number": "(508) 718-4354"
+            }
+          ],
+          "isPrimary": true,
+          "id": "OOJX7GJ",
+          "rank": 1,
+          "practiceUrl": "/group-directory/ma-massachusetts/boston/mass-general-hospital-oojx7gj",
+          "email": null,
+          "practiceId": "PPPDXLR"
+        },
+        {
+          "legacyId": "",
+          "otherUniqueId": "",
+          "officeGuid": "3167E81C-8EC6-4BA9-BD1F-405B55D49E95",
+          "name": "MGH Orthopaedics at Gillette Stadium",
+          "averagePatientVolume": 0.0,
+          "produceduresOnSite": null,
+          "freeStandingSurgery": false,
+          "hasOnSiteSurgery": false,
+          "officeImageUrl": null,
+          "parking": false,
+          "parkingInfo": "",
+          "officeHours": [],
+          "sponsor": null,
+          "address": {
+            "address1": "20 Patriot Pl",
+            "address2": "",
+            "officeCode": null,
+            "officeGuid": null,
+            "location": {
+              "cityName": "Foxborough",
+              "cityAndState": "Foxborough, MA",
+              "cityStateZipBestMatch": "Foxborough, MA 02035",
+              "providerCount": 0,
+              "region": {
+                "regionAbbreviation": "MA",
+                "regionName": "Massachusetts",
+                "cities": null,
+                "cityInitials": null,
+                "isCountry": false,
+                "zip": "02035",
+                "coordinates": {
+                  "latitude": 42.094392,
+                  "longitude": -71.265788,
+                  "latLon": "42.094392, -71.265788"
+                },
+                "nation": "USA",
+                "hasProviders": false,
+                "supressRegionLink": false
+              },
+              "locRegion": {
+                "regionAbbreviation": "MA",
+                "regionName": "Massachusetts",
+                "cities": null,
+                "cityInitials": null,
+                "isCountry": false,
+                "zip": "02035",
+                "coordinates": {
+                  "latitude": 42.094392,
+                  "longitude": -71.265788,
+                  "latLon": "42.094392, -71.265788"
+                },
+                "nation": "USA",
+                "hasProviders": false,
+                "supressRegionLink": false
+              },
+              "isNeighborhood": false,
+              "regionAbbreviation": "MA"
+            },
+            "addressCode": "AA5TXLR"
+          },
+          "paymentMethodList": [],
+          "phoneNumbers": [
+            {
+              "phoneType": 1,
+              "number": "(508) 718-4035"
+            },
+            {
+              "phoneType": 2,
+              "number": "(508) 718-4354"
+            }
+          ],
+          "isPrimary": false,
+          "id": "OOJX7DT",
+          "rank": 2,
+          "practiceUrl": "/group-directory/ma-massachusetts/foxborough/mass-general-hospital-oojx7dt",
+          "email": null,
+          "practiceId": "PPPDXLR"
+        }
+      ],
+      "legacyId": "",
+      "id": "PPPDXLR",
+      "email": null,
+      "logoFileName": ""
+    }
+  ],
+  "primaryPractice": {
+    "name": "MASS GENERAL HOSPITAL",
+    "description": "",
+    "medicalDirector": "",
+    "practiceSoftware": "",
+    "webSiteUrls": [],
+    "yearEstablished": 0,
+    "providerCount": 1,
+    "offices": [
+      {
+        "legacyId": "",
+        "otherUniqueId": "",
+        "officeGuid": "4DF14FDC-5175-40E9-AD8D-57C16726D0B7",
+        "name": "MGH Sports Medicine Center",
+        "averagePatientVolume": 0.0,
+        "produceduresOnSite": null,
+        "freeStandingSurgery": false,
+        "hasOnSiteSurgery": false,
+        "officeImageUrl": null,
+        "parking": false,
+        "parkingInfo": "",
+        "officeHours": [],
+        "sponsor": null,
+        "address": {
+          "address1": "175 Cambridge St Ste 400",
+          "address2": "",
+          "officeCode": null,
+          "officeGuid": null,
+          "location": {
+            "cityName": "Boston",
+            "cityAndState": "Boston, MA",
+            "cityStateZipBestMatch": "Boston, MA 02114",
+            "providerCount": 0,
+            "region": {
+              "regionAbbreviation": "MA",
+              "regionName": "Massachusetts",
+              "cities": null,
+              "cityInitials": null,
+              "isCountry": false,
+              "zip": "02114",
+              "coordinates": {
+                "latitude": 42.361316,
+                "longitude": -71.06613,
+                "latLon": "42.361316, -71.06613"
+              },
+              "nation": "USA",
+              "hasProviders": false,
+              "supressRegionLink": false
+            },
+            "locRegion": {
+              "regionAbbreviation": "MA",
+              "regionName": "Massachusetts",
+              "cities": null,
+              "cityInitials": null,
+              "isCountry": false,
+              "zip": "02114",
+              "coordinates": {
+                "latitude": 42.361316,
+                "longitude": -71.06613,
+                "latLon": "42.361316, -71.06613"
+              },
+              "nation": "USA",
+              "hasProviders": false,
+              "supressRegionLink": false
+            },
+            "isNeighborhood": false,
+            "regionAbbreviation": "MA"
+          },
+          "addressCode": "AA74XVM"
+        },
+        "paymentMethodList": [],
+        "phoneNumbers": [
+          {
+            "phoneType": 1,
+            "number": "(508) 718-4035"
+          },
+          {
+            "phoneType": 2,
+            "number": "(508) 718-4354"
+          }
+        ],
+        "isPrimary": true,
+        "id": "OOJX7GJ",
+        "rank": 1,
+        "practiceUrl": "/group-directory/ma-massachusetts/boston/mass-general-hospital-oojx7gj",
+        "email": null,
+        "practiceId": "PPPDXLR"
+      },
+      {
+        "legacyId": "",
+        "otherUniqueId": "",
+        "officeGuid": "3167E81C-8EC6-4BA9-BD1F-405B55D49E95",
+        "name": "MGH Orthopaedics at Gillette Stadium",
+        "averagePatientVolume": 0.0,
+        "produceduresOnSite": null,
+        "freeStandingSurgery": false,
+        "hasOnSiteSurgery": false,
+        "officeImageUrl": null,
+        "parking": false,
+        "parkingInfo": "",
+        "officeHours": [],
+        "sponsor": null,
+        "address": {
+          "address1": "20 Patriot Pl",
+          "address2": "",
+          "officeCode": null,
+          "officeGuid": null,
+          "location": {
+            "cityName": "Foxborough",
+            "cityAndState": "Foxborough, MA",
+            "cityStateZipBestMatch": "Foxborough, MA 02035",
+            "providerCount": 0,
+            "region": {
+              "regionAbbreviation": "MA",
+              "regionName": "Massachusetts",
+              "cities": null,
+              "cityInitials": null,
+              "isCountry": false,
+              "zip": "02035",
+              "coordinates": {
+                "latitude": 42.094392,
+                "longitude": -71.265788,
+                "latLon": "42.094392, -71.265788"
+              },
+              "nation": "USA",
+              "hasProviders": false,
+              "supressRegionLink": false
+            },
+            "locRegion": {
+              "regionAbbreviation": "MA",
+              "regionName": "Massachusetts",
+              "cities": null,
+              "cityInitials": null,
+              "isCountry": false,
+              "zip": "02035",
+              "coordinates": {
+                "latitude": 42.094392,
+                "longitude": -71.265788,
+                "latLon": "42.094392, -71.265788"
+              },
+              "nation": "USA",
+              "hasProviders": false,
+              "supressRegionLink": false
+            },
+            "isNeighborhood": false,
+            "regionAbbreviation": "MA"
+          },
+          "addressCode": "AA5TXLR"
+        },
+        "paymentMethodList": [],
+        "phoneNumbers": [
+          {
+            "phoneType": 1,
+            "number": "(508) 718-4035"
+          },
+          {
+            "phoneType": 2,
+            "number": "(508) 718-4354"
+          }
+        ],
+        "isPrimary": false,
+        "id": "OOJX7DT",
+        "rank": 2,
+        "practiceUrl": "/group-directory/ma-massachusetts/foxborough/mass-general-hospital-oojx7dt",
+        "email": null,
+        "practiceId": "PPPDXLR"
+      }
+    ],
+    "legacyId": "",
+    "id": "PPPDXLR",
+    "email": null,
+    "logoFileName": ""
+  },
+  "isActive": true,
+  "primaryOffice": {
+    "legacyId": "",
+    "otherUniqueId": "",
+    "officeGuid": "4DF14FDC-5175-40E9-AD8D-57C16726D0B7",
+    "name": "MGH Sports Medicine Center",
+    "averagePatientVolume": 0.0,
+    "produceduresOnSite": null,
+    "freeStandingSurgery": false,
+    "hasOnSiteSurgery": false,
+    "officeImageUrl": null,
+    "parking": false,
+    "parkingInfo": "",
+    "officeHours": [],
+    "sponsor": null,
+    "address": {
+      "address1": "175 Cambridge St Ste 400",
+      "address2": "",
+      "officeCode": null,
+      "officeGuid": null,
+      "location": {
+        "cityName": "Boston",
+        "cityAndState": "Boston, MA",
+        "cityStateZipBestMatch": "Boston, MA 02114",
+        "providerCount": 0,
+        "region": {
+          "regionAbbreviation": "MA",
+          "regionName": "Massachusetts",
+          "cities": null,
+          "cityInitials": null,
+          "isCountry": false,
+          "zip": "02114",
+          "coordinates": {
+            "latitude": 42.361316,
+            "longitude": -71.06613,
+            "latLon": "42.361316, -71.06613"
+          },
+          "nation": "USA",
+          "hasProviders": false,
+          "supressRegionLink": false
+        },
+        "locRegion": {
+          "regionAbbreviation": "MA",
+          "regionName": "Massachusetts",
+          "cities": null,
+          "cityInitials": null,
+          "isCountry": false,
+          "zip": "02114",
+          "coordinates": {
+            "latitude": 42.361316,
+            "longitude": -71.06613,
+            "latLon": "42.361316, -71.06613"
+          },
+          "nation": "USA",
+          "hasProviders": false,
+          "supressRegionLink": false
+        },
+        "isNeighborhood": false,
+        "regionAbbreviation": "MA"
+      },
+      "addressCode": "AA74XVM"
+    },
+    "paymentMethodList": [],
+    "phoneNumbers": [
+      {
+        "phoneType": 1,
+        "number": "(508) 718-4035"
+      },
+      {
+        "phoneType": 2,
+        "number": "(508) 718-4354"
+      }
+    ],
+    "isPrimary": true,
+    "id": "OOJX7GJ",
+    "rank": 1,
+    "practiceUrl": "/group-directory/ma-massachusetts/boston/mass-general-hospital-oojx7gj",
+    "email": null,
+    "practiceId": "PPPDXLR"
+  },
+  "education": [
+    {
+      "educationType": "FELLOW",
+      "name": "Andrews Sports Medicine and Orthopaedic Center (Dr. James Andrews)",
+      "year": 2009,
+      "location": null
+    },
+    {
+      "educationType": "FELLOW",
+      "name": "Massachusetts General Hospital",
+      "year": 2008,
+      "location": null
+    },
+    {
+      "educationType": "FELLOW",
+      "name": "Mayo Medical School",
+      "year": 2009,
+      "location": null
+    },
+    {
+      "educationType": "INTERN",
+      "name": "New York Presbyterian Hospital-Cornell Medical Center",
+      "year": 2003,
+      "location": null
+    },
+    {
+      "educationType": "MEDSCH",
+      "name": "Georgetown University School Of Medicine",
+      "year": 2002,
+      "location": null
+    },
+    {
+      "educationType": "RESIDE",
+      "name": "Hospital for Special Surgery",
+      "year": 2007,
+      "location": null
+    },
+    {
+      "educationType": "UNDUNI",
+      "name": "Cornell University, College Of Arts and Sciences",
+      "year": 1994,
+      "location": null
+    }
+  ],
+  "malpractices": [],
+  "sanctions": [],
+  "affiliatedHospitals": [
+    {
+      "id": "60C282",
+      "legacyId": "HGSTE0D52386220071",
+      "acceptsMedicare": null,
+      "acceptsMedicaid": null,
+      "accreditation": null,
+      "address": {
+        "address1": "55 Fruit St",
+        "address2": "",
+        "officeCode": null,
+        "officeGuid": null,
+        "location": {
+          "cityName": "Boston",
+          "cityAndState": "Boston, MA",
+          "cityStateZipBestMatch": "Boston, MA 02114",
+          "providerCount": 0,
+          "region": {
+            "regionAbbreviation": "MA",
+            "regionName": "Massachusetts",
+            "cities": null,
+            "cityInitials": null,
+            "isCountry": false,
+            "zip": "02114",
+            "coordinates": {
+              "latitude": 42.362457,
+              "longitude": -71.069374,
+              "latLon": "42.362457, -71.069374"
+            },
+            "nation": "USA",
+            "hasProviders": false,
+            "supressRegionLink": false
+          },
+          "locRegion": {
+            "regionAbbreviation": "MA",
+            "regionName": "Massachusetts",
+            "cities": null,
+            "cityInitials": null,
+            "isCountry": false,
+            "zip": "02114",
+            "coordinates": {
+              "latitude": 42.362457,
+              "longitude": -71.069374,
+              "latLon": "42.362457, -71.069374"
+            },
+            "nation": "USA",
+            "hasProviders": false,
+            "supressRegionLink": false
+          },
+          "isNeighborhood": false,
+          "regionAbbreviation": "MA"
+        },
+        "addressCode": null
+      },
+      "addresses": [
+        {
+          "address1": "55 Fruit St",
+          "address2": "",
+          "officeCode": null,
+          "officeGuid": null,
+          "location": {
+            "cityName": "Boston",
+            "cityAndState": "Boston, MA",
+            "cityStateZipBestMatch": "Boston, MA 02114",
+            "providerCount": 0,
+            "region": {
+              "regionAbbreviation": "MA",
+              "regionName": "Massachusetts",
+              "cities": null,
+              "cityInitials": null,
+              "isCountry": false,
+              "zip": "02114",
+              "coordinates": {
+                "latitude": 42.362457,
+                "longitude": -71.069374,
+                "latLon": "42.362457, -71.069374"
+              },
+              "nation": "USA",
+              "hasProviders": false,
+              "supressRegionLink": false
+            },
+            "locRegion": {
+              "regionAbbreviation": "MA",
+              "regionName": "Massachusetts",
+              "cities": null,
+              "cityInitials": null,
+              "isCountry": false,
+              "zip": "02114",
+              "coordinates": {
+                "latitude": 42.362457,
+                "longitude": -71.069374,
+                "latLon": "42.362457, -71.069374"
+              },
+              "nation": "USA",
+              "hasProviders": false,
+              "supressRegionLink": false
+            },
+            "isNeighborhood": false,
+            "regionAbbreviation": "MA"
+          },
+          "addressCode": null
+        }
+      ],
+      "affiliatedFacilitiesInformation": null,
+      "affiliatedProviderCount": 0,
+      "businessOfficeHoursInformation": null,
+      "communityOutreachActivitiesInformation": null,
+      "communityOutreachProgramsInformation": null,
+      "communitySupportInformation": null,
+      "companyId": 0,
+      "description": null,
+      "directionsInformation": null,
+      "distinctions": null,
+      "educationAndTrainingInformation": null,
+      "emergencyPhoneLine": null,
+      "facilityAwards": null,
+      "achievementAwards": null,
+      "nonHealthGradesAward": null,
+      "facilityInformationItems": null,
+      "facilityRatings": null,
+      "traumaCenterDesignations": null,
+      "facilityType": 1,
+      "facilityTypeDescription": "Short-Term Acute Care",
+      "facilitySearchType": 1,
+      "facilityUrl": "/hospital-directory/massachusetts-ma-boston/massachusetts-general-hospital-hgste0d52386220071",
+      "fiveStarCount": 10,
+      "currentAwardCount": 5,
+      "foundationInformation": null,
+      "healthPlanInformation": null,
+      "hgid8": null,
+      "highlySatisfiedPercent": 90.0,
+      "hospitalAffiliationsInformation": null,
+      "mainImage": {
+        "type": null,
+        "description": null,
+        "width": null,
+        "height": null,
+        "url": ""
+      },
+      "isPdc": false,
+      "qualityScore": 5.5,
+      "isSponsored": false,
+      "isTeachingHospital": null,
+      "languagesAndInterpretersInformation": null,
+      "mainPhoneLine": null,
+      "medicalServices": [],
+      "missionStatement": null,
+      "mortality": {},
+      "name": "Massachusetts General Hospital",
+      "officeCloseTime": null,
+      "officeOpenTime": null,
+      "onSiteGuestServicesInformation": null,
+      "overallPatientSafety": null,
+      "parkingInformation": null,
+      "patientSafetyIndicators": null,
+      "physicianPhoneLine": null,
+      "professionalAffiliations": null,
+      "rating": 0.0,
+      "readmissionRates": null,
+      "recommendedCareRatings": null,
+      "regionalRelationships": null,
+      "residencyProgramApproval": null,
+      "religiousAffiliationsInformation": null,
+      "satisfactionRatings": null,
+      "serviceLines": null,
+      "ratedProcedures": [],
+      "specialProgramsInformation": null,
+      "sponsorship": null,
+      "sponsorCode": null,
+      "surroundingAreaInformation": null,
+      "teachingProgramsInformation": null,
+      "timelyAndEffectiveCare": null,
+      "topTenProceduresAndConditions": [],
+      "transplantCapabilitiesInformation": null,
+      "facilityRatingTransplants": null,
+      "treatmentSchedules": null,
+      "visitingHours": null,
+      "visitingHoursInformation": null,
+      "volunteerInformation": null,
+      "websiteUrl": null,
+      "yearEstablished": null,
+      "ownershipType": null,
+      "leaders": null,
+      "procedureRatings": null
+    }
+  ],
+  "aboutMe": [],
+  "awardsAndRecognitions": {
+    "has5StarHonor": false,
+    "hasRecognitionHonor": true,
+    "hasMemberships": false,
+    "honorRoll": [
+      {
+        "name": "Recognized Doctor",
+        "code": "HGRECOG"
+      }
+    ],
+    "memberships": [],
+    "affiliations": null,
+    "mediaAndPublications": [
+      {
+        "mediaTitle": "Emerging Leader, American Orthopaedic Association",
+        "mediaDate": "2009",
+        "publication": "Awards and Honors",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "5",
+        "isAwardsAndHonors": true
+      },
+      {
+        "mediaTitle": "Mel Post Award for Excellence in Clinical Research, American Shoulder and Elbow Surgeons",
+        "mediaDate": "2010",
+        "publication": "Awards and Honors",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "5",
+        "isAwardsAndHonors": true
+      },
+      {
+        "mediaTitle": "Michael J. Caruso Humanitarian Award, Georgetown University School of Medicine",
+        "mediaDate": "2002",
+        "publication": "Awards and Honors",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "5",
+        "isAwardsAndHonors": true
+      },
+      {
+        "mediaTitle": "Clinician-Scientist Development Program, AAOS/OREF/ORS",
+        "mediaDate": "2009",
+        "publication": "Awards and Honors",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "5",
+        "isAwardsAndHonors": true
+      },
+      {
+        "mediaTitle": "Jean C. McDaniel Resident Teaching and Leadership Award, Hospital for Special Surgery",
+        "mediaDate": "2007",
+        "publication": "Awards and Honors",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "5",
+        "isAwardsAndHonors": true
+      },
+      {
+        "mediaTitle": "O'Donoghue Sports Injury Research Award, American Orthopaedic Society for Sports Medicine",
+        "mediaDate": "2009",
+        "publication": "Awards and Honors",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "5",
+        "isAwardsAndHonors": true
+      },
+      {
+        "mediaTitle": "Alpha Omega Alpha Medical Honor Society, Georgetown University School of Medicine",
+        "mediaDate": "2001",
+        "publication": "Awards and Honors",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "5",
+        "isAwardsAndHonors": true
+      },
+      {
+        "mediaTitle": "Sodl JF, Oh LS, Yagnik G, Warren RF. Sports Medicine. In Chin KR and Mehta S, eds. Orthopaedic Key Review Concepts. Lippincott Williams & Wilkins, 2008.",
+        "mediaDate": "",
+        "publication": "Book",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "6",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Oh LS, Wickiewicz TL. How do you examine the knee for posterolateral corner injury combined with ACL injury? In Bach BR and Verma NN, ed. Curbside Consultation in the ACL: 49 Clinical Questions. SLACK Inc., 2008.",
+        "mediaDate": "",
+        "publication": "Book",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "6",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Oh LS, Gill TJ. Microfracture. In Gill TJ, ed. Arthroscopic Techniques of the Knee: A Visual Guide. SLACK Inc., 2009.",
+        "mediaDate": "",
+        "publication": "Book",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "6",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Oh LS, Wickiewicz TL. What tricks do you have to avoid creation of a vertical tunnel when drilling a transtibial tunnel? In Bach BR and Verma NN, ed. Curbside Consultation in the ACL: 49 Clinical Questions. SLACK Inc., 2008.",
+        "mediaDate": "",
+        "publication": "Book",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "6",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Oh LS, Steinmann SP. Open surgical approach for posterior stabilization. In Abrams J, ed. Management of the Unstable Shoulder: Arthroscopic and Open Repair. SLACK Inc., 2011.",
+        "mediaDate": "",
+        "publication": "Book",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "6",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Oh LS, Wickiewicz TL. How do you manage the expanded femoral or tibial tunnel in a failed ACL patient? In Bach BR and Verma NN, ed. Curbside Consultation in the ACL: 49 Clinical Questions. SLACK Inc., 2008.",
+        "mediaDate": "",
+        "publication": "Book",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "6",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Oh LS, Gill TJ. Single Bundle Posterior Cruciate Ligament Reconstruction Using an Arthroscopic Transtibial Technique. In Gill TJ, ed. Arthroscopic Techniques of the Knee: A Visual Guide. SLACK Inc., 2009.",
+        "mediaDate": "",
+        "publication": "Book",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "6",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Oh LS. Elbow. In Miller MD, ed. SMART Sports Medicine Assessment and Review Textbook. Philadelphia: WB Saunders, 2011.",
+        "mediaDate": "",
+        "publication": "Book",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "6",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Arm injury was only thing to stop Westbrook's Heath",
+        "mediaDate": "07/17/2011",
+        "publication": "Newspaper",
+        "mediaLink": "http://www.pressherald.com/sports/arm-injury-was-only-thing-to-stop-westbrooks-heath_2011-07-17.html",
+        "mediaSynopsis": null,
+        "mediaCode": "4",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "UMaine-bound Heath undergoes arm surgery",
+        "mediaDate": "07/08/2011",
+        "publication": "Newspaper",
+        "mediaLink": "http://bangordailynews.com/2011/07/08/sports/umaine-bound-heath-undergoes-arm-surgery/",
+        "mediaSynopsis": null,
+        "mediaCode": "4",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Seon JK, Gadikota HR, Kozanek M, Oh LS, Gill TJ, Li G. The effect of anterior cruciate ligament reconstruction on kinematics of the knee with combined anterior cruciate ligament injury and subtotal medial meniscectomy: An in vitro robotic investigation. Arthroscopy 2009 Feb;25(2):123-30.",
+        "mediaDate": "",
+        "publication": "Publications/Journals",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "3",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Brophy RH, Chiaia TA, Maschi R, Dodson CC, Oh LS, Lyman S, Allen AA, Williams RJ. The Core and Hip in soccer athletes compared by gender. Int J Sports Med 2009 Sep:30(9):663-7.",
+        "mediaDate": "",
+        "publication": "Publications/Journals",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "3",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Foruria AM, Oh LS, Sperling JW, Cofield RH. Anteromedial approach for shoulder arthroplasty: Current indications, complications, and results. J Shoulder Elbow Surg. 2010 Jul;19(5):734-8.",
+        "mediaDate": "",
+        "publication": "Publications/Journals",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "3",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Foruria AM, Sanchez-Sotelo J, Oh LS, Adams RA, Morrey BF. The surgical treatment of periprosthetic elbow fractures around the ulnar stem following semiconstrained total elbow arthroplasty. J Bone Joint Surg Am. 2011 Aug 3;93(15):1399-407.",
+        "mediaDate": "",
+        "publication": "Publications/Journals",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "3",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Gadikota HR, Seon JK, Kozanek M, Oh LS, Gill TJ, Montgomery KD, Li G. Biomechanical comparison of single-tunnel double-bundle and single-bundle anterior cruciate ligament reconstructions. Am J Sports Med 2009 May;37(5):962-9.",
+        "mediaDate": "",
+        "publication": "Publications/Journals",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "3",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Gill TJ, Van de Velde SK, Wing DW, Oh LS, Hosseini A, Li G. Tibiofemoral and Patellofemoral kinematics after reconstruction of an isolated posterior cruciate ligament injury: In vivo analysis during lunge. Am J Sports Med 2009 Dec;37(12):2377-85.",
+        "mediaDate": "",
+        "publication": "Publications/Journals",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "3",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Oh LS, Wolf BR, Hall MP, Levy BA, Marx RG. Indications for repair of full-thickness rotator cuff tears: A systematic review. Clin Orthop Feb 2007; 455:52-63.",
+        "mediaDate": "",
+        "publication": "Publications/Journals",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "3",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Song EK, Oh LS, Gill TJ, Li G, Gadikota HR, Seon JK. Prospective comparative study on anterior cruciate ligament reconstruction using the double- and single-bundle techniques. Am J Sports Med 2009 Sep;37(9):1705-11.",
+        "mediaDate": "",
+        "publication": "Publications/Journals",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "3",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Seon JK, Park SJ, Lee KB, Gadikota HR, Kozanek M, Oh LS, Hariri S, Song EK. A clinical comparison of screw and suture fixation of anterior cruciate ligament tibial avulsion fractures. Am J Sports Med 2009 Dec;37(12):2334-9.",
+        "mediaDate": "",
+        "publication": "Publications/Journals",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "3",
+        "isAwardsAndHonors": false
+      },
+      {
+        "mediaTitle": "Oh LS, Lewis PB, Lorich DG, Helfet DL. Painless, atraumatic, isolated lateral compartment syndrome of the leg: An unusual triad of atypical findings. Am J Orthop 2010 Feb.",
+        "mediaDate": "",
+        "publication": "Publications/Journals",
+        "mediaLink": "",
+        "mediaSynopsis": null,
+        "mediaCode": "3",
+        "isAwardsAndHonors": false
+      }
+    ]
+  },
+  "conditions": [
+    {
+      "ids": [
+        1294
+      ],
+      "code": "CN0000050E",
+      "name": "Rotator Cuff Tear",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        762
+      ],
+      "code": "CN000002FA",
+      "name": "Anterior Cruciate Ligament (ACL) Injuries",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        1249
+      ],
+      "code": "CN000004E1",
+      "name": "Achilles Tendon Rupture",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        1297
+      ],
+      "code": "CN00000511",
+      "name": "Shoulder Diseases",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        16336
+      ],
+      "code": "CN00003FD0",
+      "name": "Osteoarthritis of Shoulder",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51149
+      ],
+      "code": "CN0000C7CD",
+      "name": "Clavicle Fracture",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        19250
+      ],
+      "code": "CN00004B32",
+      "name": "Elbow Injuries",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        238
+      ],
+      "code": "CN000000EE",
+      "name": "Dislocated Joint",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        11050
+      ],
+      "code": "CN00002B2A",
+      "name": "Shoulder Injuries",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        858
+      ],
+      "code": "CN0000035A",
+      "name": "Meniscus Tear",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        2271
+      ],
+      "code": "CN000008DF",
+      "name": "Knee Ligament Rupture",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        1274
+      ],
+      "code": "CN000004FA",
+      "name": "Knee Injuries",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        2590
+      ],
+      "code": "CN00000A1E",
+      "name": "Posterior Cruciate Ligament (PCL) Injuries",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        1288
+      ],
+      "code": "CN00000508",
+      "name": "Osteochondritis Dissecans",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        50227
+      ],
+      "code": "CN0000C433",
+      "name": "Sports Injuries of the Knee",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        1296
+      ],
+      "code": "CN00000510",
+      "name": "Arthritis of the Shoulder",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51040
+      ],
+      "code": "CN0000C760",
+      "name": "Anterior Cruciate Ligament (ACL) or Posterior Cruciate Ligament (PCL) Tear",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        16334
+      ],
+      "code": "CN00003FCE",
+      "name": "Shoulder Impingement Syndrome",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51671
+      ],
+      "code": "CN0000C9D7",
+      "name": "Elbow Fracture",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        856
+      ],
+      "code": "CN00000358",
+      "name": "Shoulder Instability",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        7984
+      ],
+      "code": "CN00001F30",
+      "name": "Dislocated Elbow",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        50967
+      ],
+      "code": "CN0000C717",
+      "name": "Knee Ligament Injuries",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        1303
+      ],
+      "code": "CN00000517",
+      "name": "Tricep Injuries",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51414
+      ],
+      "code": "CN0000C8D6",
+      "name": "Quadriceps Tendon Tears",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51401
+      ],
+      "code": "CN0000C8C9",
+      "name": "Patella Tendon Tears",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        8440
+      ],
+      "code": "CN000020F8",
+      "name": "Elbow Sprain",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        16337
+      ],
+      "code": "CN00003FD1",
+      "name": "Shoulder Separation",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51041
+      ],
+      "code": "CN0000C761",
+      "name": "Adhesive Capsulitis",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        16331
+      ],
+      "code": "CN00003FCB",
+      "name": "Shoulder Dislocation",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        1256
+      ],
+      "code": "CN000004E8",
+      "name": "Bicep Injuries",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        557
+      ],
+      "code": "CN0000022D",
+      "name": "Rotator Cuff Injuries",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        16339
+      ],
+      "code": "CN00003FD3",
+      "name": "Shoulder Tendinitis",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        11288
+      ],
+      "code": "CN00002C18",
+      "name": "Knee Sprain",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        52121
+      ],
+      "code": "CN0000CB99",
+      "name": "Nerve Root Injury and Plexus Disorders (incl. Pinched Nerve)",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        50709
+      ],
+      "code": "CN0000C615",
+      "name": "Pyogenic Arthritis",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51154
+      ],
+      "code": "CN0000C7D2",
+      "name": "Degenerative Disc Disease",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        52123
+      ],
+      "code": "CN0000CB9B",
+      "name": "Shoulder Tendinitis and Tenosynovitis",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51047
+      ],
+      "code": "CN0000C767",
+      "name": "Ankle Sprain and Achilles Tendon Sprain or Rupture",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        1218
+      ],
+      "code": "CN000004C2",
+      "name": "Rheumatoid Arthritis",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        52124
+      ],
+      "code": "CN0000CB9C",
+      "name": "Sprains and Strains (incl. Muscle Tear)",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        2743
+      ],
+      "code": "CN00000AB7",
+      "name": "Shoulder Disorders",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        10905
+      ],
+      "code": "CN00002A99",
+      "name": "Intervertebral Disc Disease",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        4384
+      ],
+      "code": "CN00001120",
+      "name": "Autoimmune Diseases",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51367
+      ],
+      "code": "CN0000C8A7",
+      "name": "Knee Disorders",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        50903
+      ],
+      "code": "CN0000C6D7",
+      "name": "Bone Disorders",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51076
+      ],
+      "code": "CN0000C784",
+      "name": "Glenoid Labrum Tear",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        9884
+      ],
+      "code": "CN0000269C",
+      "name": "Hand Conditions",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51054
+      ],
+      "code": "CN0000C76E",
+      "name": "Brachial Plexus Palsy",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51085
+      ],
+      "code": "CN0000C78D",
+      "name": "Knee Dislocation",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        20115
+      ],
+      "code": "CN00004E93",
+      "name": "Spine Disorders",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        52117
+      ],
+      "code": "CN0000CB95",
+      "name": "Arthritis of the Elbow",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        1272
+      ],
+      "code": "CN000004F8",
+      "name": "Joint Pain",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        50820
+      ],
+      "code": "CN0000C684",
+      "name": "Non-Unions and Malunions of Fractures",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        52120
+      ],
+      "code": "CN0000CB98",
+      "name": "Neck Strain (incl. Whiplash Injury)",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        301
+      ],
+      "code": "CN0000012D",
+      "name": "Gout",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        280
+      ],
+      "code": "CN00000118",
+      "name": "Fracture",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        6690
+      ],
+      "code": "CN00001A22",
+      "name": "Chronic Neck Pain",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51110
+      ],
+      "code": "CN0000C7A6",
+      "name": "Pseudoarthrosis",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51166
+      ],
+      "code": "CN0000C7DE",
+      "name": "Leg Fracture Above Knee (incl. Hip)",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51056
+      ],
+      "code": "CN0000C770",
+      "name": "Chondrocalcinosis",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        52283
+      ],
+      "code": "CN0000CC3B",
+      "name": "Limb Pain",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51071
+      ],
+      "code": "CN0000C77F",
+      "name": "Broken Arm",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51088
+      ],
+      "code": "CN0000C790",
+      "name": "Lateral Collateral Ligament (LCL) Sprain",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    }
+  ],
+  "procedures": [
+    {
+      "ids": [
+        50545
+      ],
+      "code": "PR0000C571",
+      "name": "Neuroplasty",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        984
+      ],
+      "code": "PR000003D8",
+      "name": "Elbow Arthroscopy",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50112
+      ],
+      "code": "PR0000C3C0",
+      "name": "Shoulder Fracture and Dislocation Treatment",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50862
+      ],
+      "code": "PR0000C6AE",
+      "name": "Shoulder Replacement",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        1036
+      ],
+      "code": "PR0000040C",
+      "name": "Tommy John Surgery",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50806
+      ],
+      "code": "PR0000C676",
+      "name": "Arthroscopic Knee Shaving",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        175
+      ],
+      "code": "PR000000AF",
+      "name": "Knee Arthroscopy",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        7
+      ],
+      "code": "PR00000007",
+      "name": "Fracture and-or Dislocation Treatment",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        51055
+      ],
+      "code": "PR0000C76F",
+      "name": "Arthroscopic Shoulder Repair",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        1017
+      ],
+      "code": "PR000003F9",
+      "name": "Knee Tendon Repair",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        51910
+      ],
+      "code": "PR0000CAC6",
+      "name": "Shoulder Fracture Treatment",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        51244
+      ],
+      "code": "PR0000C82C",
+      "name": "Elbow Reconstruction",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        1126
+      ],
+      "code": "PR00000466",
+      "name": "Shoulder Surgery",
+      "url": "/procedures/shoulder-surgery",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        997
+      ],
+      "code": "PR000003E5",
+      "name": "Arthroscopic Meniscus Repair",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50489
+      ],
+      "code": "PR0000C539",
+      "name": "Elbow Replacement",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        1084
+      ],
+      "code": "PR0000043C",
+      "name": "Arthroscopic Rotator Cuff Repair",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        1015
+      ],
+      "code": "PR000003F7",
+      "name": "Knee Ligament Reconstruction",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        999
+      ],
+      "code": "PR000003E7",
+      "name": "Bicep Repairs",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        314
+      ],
+      "code": "PR0000013A",
+      "name": "Knee Surgery",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50856
+      ],
+      "code": "PR0000C6A8",
+      "name": "Quadriceps Tendon Repair",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50752
+      ],
+      "code": "PR0000C640",
+      "name": "Elbow Surgery",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        222
+      ],
+      "code": "PR000000DE",
+      "name": "Total Shoulder Replacement",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        2331
+      ],
+      "code": "PR0000091B",
+      "name": "Knee Cartilage Implantation",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        2468
+      ],
+      "code": "PR000009A4",
+      "name": "Shoulder Resurfacing",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        1014
+      ],
+      "code": "PR000003F6",
+      "name": "Knee Cartilage Repair",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        631
+      ],
+      "code": "PR00000277",
+      "name": "Shoulder Stabilizations",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        51183
+      ],
+      "code": "PR0000C7EF",
+      "name": "Knee Cartilage Treatment",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        1085
+      ],
+      "code": "PR0000043D",
+      "name": "Arthroscopic Labrum Repair",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        1009
+      ],
+      "code": "PR000003F1",
+      "name": "Elbow Ligament Reconstruction",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        709
+      ],
+      "code": "PR000002C5",
+      "name": "Articular Cartilage Repair",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        590
+      ],
+      "code": "PR0000024E",
+      "name": "Ligament Reconstruction",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        1029
+      ],
+      "code": "PR00000405",
+      "name": "Glenoid Labrum Repair",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        3180
+      ],
+      "code": "PR00000C6C",
+      "name": "Shoulder Reconstruction",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        1185
+      ],
+      "code": "PR000004A1",
+      "name": "Arthroscopic Shoulder Reconstruction",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        13735
+      ],
+      "code": "PR000035A7",
+      "name": "Rotator Cuff Surgery",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        51103
+      ],
+      "code": "PR0000C79F",
+      "name": "Minimally Invasive Rotator Cuff Repair",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        1040
+      ],
+      "code": "PR00000410",
+      "name": "Tricep Repair",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        3203
+      ],
+      "code": "PR00000C83",
+      "name": "Steroid Injection",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52075
+      ],
+      "code": "PR0000CB6B",
+      "name": "All Shoulder or Elbow Replacement Procedures",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        51817
+      ],
+      "code": "PR0000CA69",
+      "name": "Shoulder Dislocation Treatment",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52076
+      ],
+      "code": "PR0000CB6C",
+      "name": "Partial Shoulder Replacement",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        51879
+      ],
+      "code": "PR0000CAA7",
+      "name": "Excision of Scapula, Clavicle, Rib, or Sternum",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50568
+      ],
+      "code": "PR0000C588",
+      "name": "Resection or Ablation of Bone Tumor, Partial or Complete Resection of Bone, Debridement of Bone",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50574
+      ],
+      "code": "PR0000C58E",
+      "name": "Synovial Biopsy",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50542
+      ],
+      "code": "PR0000C56E",
+      "name": "Nerve Block, Somatic",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50092
+      ],
+      "code": "PR0000C3AC",
+      "name": "Elbow Fracture and Dislocation Treatment",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        599
+      ],
+      "code": "PR00000257",
+      "name": "Reverse Total Shoulder and Total Shoulder Replacement",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        2636
+      ],
+      "code": "PR00000A4C",
+      "name": "Arm Surgery",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        1700
+      ],
+      "code": "PR000006A4",
+      "name": "Fracture Care",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50548
+      ],
+      "code": "PR0000C574",
+      "name": "Peripheral Nerve Block",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        51874
+      ],
+      "code": "PR0000CAA2",
+      "name": "Elbow Fracture and-or Dislocation Treatment, Open",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        983
+      ],
+      "code": "PR000003D7",
+      "name": "Arthroscopic Shoulder Surgery",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        312
+      ],
+      "code": "PR00000138",
+      "name": "ACL Surgery",
+      "url": "/procedures/anterior-cruciate-ligament-acl-surgery",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    }
+  ],
+  "insuranceAccepted": [
+    {
+      "code": "AETNA",
+      "plans": [],
+      "payor": "Aetna"
+    },
+    {
+      "code": "BEECHA",
+      "plans": [],
+      "payor": "Beech Street (Multiplan)"
+    },
+    {
+      "code": "BLUECG",
+      "plans": [],
+      "payor": "Blue Cross Blue Shield"
+    },
+    {
+      "code": "BLUECO",
+      "plans": [],
+      "payor": "Blue Cross Blue Shield of Massachusetts"
+    },
+    {
+      "code": "CENTEN",
+      "plans": [],
+      "payor": "Centene"
+    },
+    {
+      "code": "CIGNA",
+      "plans": [],
+      "payor": "Cigna"
+    },
+    {
+      "code": "COINCO",
+      "plans": [],
+      "payor": "Commercial Insurance Company"
+    },
+    {
+      "code": "FACOHP",
+      "plans": [],
+      "payor": "Fallon Community Health Plan"
+    },
+    {
+      "code": "HRPIHC",
+      "plans": [],
+      "payor": "Harvard Pilgrim Health Care"
+    },
+    {
+      "code": "HUMANA",
+      "plans": [
+        {
+          "name": "Choice Care PPO"
+        }
+      ],
+      "payor": "Humana"
+    },
+    {
+      "code": "MEDICA",
+      "plans": [
+        {
+          "name": "Special Needs Plan SNP"
+        }
+      ],
+      "payor": "Medicare"
+    },
+    {
+      "code": "NEIGHP",
+      "plans": [],
+      "payor": "Neighborhood Health Plan"
+    },
+    {
+      "code": "NETWOA",
+      "plans": [],
+      "payor": "Network Health"
+    },
+    {
+      "code": "ONEHLT",
+      "plans": [],
+      "payor": "One Health"
+    },
+    {
+      "code": "PRIVAA",
+      "plans": [],
+      "payor": "Private HealthCare Systems"
+    },
+    {
+      "code": "TRICAR",
+      "plans": [
+        {
+          "name": "TriCare for Life"
+        }
+      ],
+      "payor": "Tricare"
+    },
+    {
+      "code": "UNICAR",
+      "plans": [],
+      "payor": "UniCare"
+    },
+    {
+      "code": "UNITHC",
+      "plans": [
+        {
+          "name": "United Healthcare"
+        }
+      ],
+      "payor": "UnitedHealthCare"
+    },
+    {
+      "code": "WORKCO",
+      "plans": [
+        {
+          "name": "Worker's Compensation WC"
+        }
+      ],
+      "payor": "Worker's Compensation"
+    }
+  ],
+  "videos": [],
+  "patientExperienceSurveys": [
+    {
+      "question": "Ease of scheduling urgent appointments",
+      "questionID": "223",
+      "sortOrder": 1,
+      "resultsSortOrder": 0,
+      "providerScore": 4.8,
+      "providerScorePercent": 96.0,
+      "providerScoreRoundedPercent": 95,
+      "roundedProviderScoreDescription": null,
+      "count": 64,
+      "nationalScore": 4.2,
+      "nationalScorePercent": 84.0,
+      "nationalScoreRoundedPercent": 85,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "above national average"
+    },
+    {
+      "question": "Office environment, cleanliness, comfort, etc.",
+      "questionID": "224",
+      "sortOrder": 2,
+      "resultsSortOrder": 0,
+      "providerScore": 4.9,
+      "providerScorePercent": 98.0,
+      "providerScoreRoundedPercent": 100,
+      "roundedProviderScoreDescription": null,
+      "count": 64,
+      "nationalScore": 4.3,
+      "nationalScorePercent": 86.0,
+      "nationalScoreRoundedPercent": 85,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "above national average"
+    },
+    {
+      "question": "Staff friendliness and courteousness",
+      "questionID": "225",
+      "sortOrder": 3,
+      "resultsSortOrder": 0,
+      "providerScore": 4.9,
+      "providerScorePercent": 98.0,
+      "providerScoreRoundedPercent": 100,
+      "roundedProviderScoreDescription": null,
+      "count": 64,
+      "nationalScore": 4.2,
+      "nationalScorePercent": 84.0,
+      "nationalScoreRoundedPercent": 85,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "above national average"
+    },
+    {
+      "question": "Total wait time (waiting & exam rooms)",
+      "questionID": "226",
+      "sortOrder": 4,
+      "resultsSortOrder": 0,
+      "providerScore": 4.0,
+      "providerScorePercent": 80.0,
+      "providerScoreRoundedPercent": 80,
+      "roundedProviderScoreDescription": null,
+      "count": 59,
+      "nationalScore": 3.9,
+      "nationalScorePercent": 78.0,
+      "nationalScoreRoundedPercent": 80,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "same as national average"
+    },
+    {
+      "question": "Spends appropriate amount of time with patients",
+      "questionID": "227",
+      "sortOrder": 8,
+      "resultsSortOrder": 0,
+      "providerScore": 4.8,
+      "providerScorePercent": 96.0,
+      "providerScoreRoundedPercent": 95,
+      "roundedProviderScoreDescription": null,
+      "count": 64,
+      "nationalScore": 4.2,
+      "nationalScorePercent": 84.0,
+      "nationalScoreRoundedPercent": 85,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "above national average"
+    },
+    {
+      "question": "How well provider listens and answers questions",
+      "questionID": "228",
+      "sortOrder": 7,
+      "resultsSortOrder": 0,
+      "providerScore": 4.8,
+      "providerScorePercent": 96.0,
+      "providerScoreRoundedPercent": 95,
+      "roundedProviderScoreDescription": null,
+      "count": 64,
+      "nationalScore": 4.2,
+      "nationalScorePercent": 84.0,
+      "nationalScoreRoundedPercent": 85,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "above national average"
+    },
+    {
+      "question": "How well provider explains medical condition(s)",
+      "questionID": "229",
+      "sortOrder": 6,
+      "resultsSortOrder": 0,
+      "providerScore": 4.8,
+      "providerScorePercent": 96.0,
+      "providerScoreRoundedPercent": 95,
+      "roundedProviderScoreDescription": null,
+      "count": 64,
+      "nationalScore": 4.2,
+      "nationalScorePercent": 84.0,
+      "nationalScoreRoundedPercent": 85,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "above national average"
+    },
+    {
+      "question": "Level of trust in provider's decisions",
+      "questionID": "230",
+      "sortOrder": 5,
+      "resultsSortOrder": 0,
+      "providerScore": 4.9,
+      "providerScorePercent": 98.0,
+      "providerScoreRoundedPercent": 100,
+      "roundedProviderScoreDescription": null,
+      "count": 64,
+      "nationalScore": 4.2,
+      "nationalScorePercent": 84.0,
+      "nationalScoreRoundedPercent": 85,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "above national average"
+    },
+    {
+      "question": "Likelihood of recommending {Provider Last Name} to family and friends",
+      "questionID": "231",
+      "sortOrder": 9,
+      "resultsSortOrder": 0,
+      "providerScore": 4.9,
+      "providerScorePercent": 98.0,
+      "providerScoreRoundedPercent": 100,
+      "roundedProviderScoreDescription": null,
+      "count": 64,
+      "nationalScore": 4.1,
+      "nationalScorePercent": 82.0,
+      "nationalScoreRoundedPercent": 80,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "above national average"
+    }
+  ],
+  "boardActions": [],
+  "photoUrls": [
+    {
+      "type": "small",
+      "description": "small image",
+      "width": 60,
+      "height": 80,
+      "url": "/img/prov/Y/N/6/YN6RL_w60h80_v8251.jpg"
+    },
+    {
+      "type": "medium",
+      "description": "medium image",
+      "width": 90,
+      "height": 120,
+      "url": "/img/prov/Y/N/6/YN6RL_w90h120_v8251.jpg"
+    },
+    {
+      "type": "large",
+      "description": "large image",
+      "width": 120,
+      "height": 160,
+      "url": "/img/prov/Y/N/6/YN6RL_w120h160_v8251.jpg"
+    }
+  ],
+  "hasDisplayImage": true,
+  "hasOpenComment": true,
+  "graduationYear": 0,
+  "title": "Dr.",
+  "isOas": false,
+  "oasProviderIdentifiers": [],
+  "prescriberData": [
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "ARTH",
+      "advertisementGroup": "AllPrescriber",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "ARTH",
+      "advertisementGroup": "NonSpecialist",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "HMSClaims",
+      "advertisementType": "decile",
+      "advertisementCode": "CN00000216",
+      "advertisementGroup": "Non-Specialist",
+      "advertisementValueType": "ClaimsCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "HMSClaims",
+      "advertisementType": "decile",
+      "advertisementCode": "CN00000467",
+      "advertisementGroup": "Non-Specialist",
+      "advertisementValueType": "ClaimsCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "HMSClaims",
+      "advertisementType": "decile",
+      "advertisementCode": "CN000004C2",
+      "advertisementGroup": "Non-Specialist",
+      "advertisementValueType": "ClaimsCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "HMSClaims",
+      "advertisementType": "decile",
+      "advertisementCode": "CN000006AB",
+      "advertisementGroup": "Non-Specialist",
+      "advertisementValueType": "ClaimsCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "HMSClaims",
+      "advertisementType": "decile",
+      "advertisementCode": "CN00004DB4",
+      "advertisementGroup": "Non-Specialist",
+      "advertisementValueType": "ClaimsCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "HMSClaims",
+      "advertisementType": "decile",
+      "advertisementCode": "CN0000C5E9",
+      "advertisementGroup": "Non-Specialist",
+      "advertisementValueType": "ClaimsCount",
+      "advertisementValue": "1"
+    }
+  ],
+  "microdata": {
+    "name": "Dr. Luke S. Oh, MD",
+    "photo": null,
+    "description": "Visit Healthgrades for information on Dr. Luke S. Oh, MD Find Phone & Address information, medical practice history, affiliated hospitals and more.",
+    "address": {
+      "type": "http://schema.org/PostalAddress",
+      "streetAddress": "175 Cambridge St Ste 400",
+      "addressLocality": "Boston",
+      "addressRegion": "MA",
+      "postalCode": "02114",
+      "geoCoordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "type": null
+      }
+    },
+    "hospitalAffiliations": [
+      {
+        "address": {
+          "type": "http://schema.org/PostalAddress",
+          "streetAddress": "55 Fruit St",
+          "addressLocality": "Boston",
+          "addressRegion": "MA",
+          "postalCode": "02114",
+          "geoCoordinate": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "type": null
+          }
+        },
+        "type": "http://schema.org/Hospital"
+      }
+    ],
+    "aggregateRating": {
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1",
+      "reviewCount": "64",
+      "type": "http://schema.org/AggregateRating"
+    },
+    "geo": {
+      "latitude": 42.3613167,
+      "longitude": -71.06613,
+      "type": "http://schema.org/GeoCoordinates"
+    },
+    "medicalSpecialty": "Musculoskeletal",
+    "type": "http://schema.org/Physician"
+  },
+  "shouldShowVideoContent": false,
+  "availability": [],
+  "primaryOfficeRegionName": "Massachusetts",
+  "genderString": "Male",
+  "noSubCodeSuppression": true,
+  "age": 45,
+  "degree": "MD",
+  "dob": "1971-10-08T00:00:00",
+  "firstName": "Luke",
+  "gender": "M",
+  "middleName": "S",
+  "middleInitialWithPeriod": "S.",
+  "lastName": "Oh",
+  "suffix": null,
+  "languages": [],
+  "prefix": "Dr.",
+  "displayName": "Dr. Oh",
+  "displayNamePossessive": "Dr. Oh's",
+  "displayFullName": "Dr. Luke S. Oh, MD"
+}

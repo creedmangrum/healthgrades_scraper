@@ -1,0 +1,400 @@
+{
+	"copy":{
+		"profile-review-cta-headline":"Help millions of people find the right doctor. Share your experience today!",
+		"profile-review-cta-headline-first":"Help millions of people find the right doctor. Share your experience today!",
+		"profile-review-cta-button":"Leave a review",
+		"profile-review-cta-button-first":"Be the first to leave a review!",
+		"profile-score-details-source":"based on",
+		"profile-score-details-score-description-plural":"total surveys (",
+		"profile-score-details-score-description-singular":"survey (",
+		"profile-score-details-score-description-plural-no-reviews":"total surveys",
+		"profile-score-details-score-description-singular-no-reviews":"survey",
+		"profile-score-details-review-description-plural":"with reviews)",
+		"profile-score-details-review-description-singular":"with a review)",
+		"profile-hgmd-cta-no-comments-text":"Make it easy for patients to share their feedback. Also manage your personalized profile!",
+		"profile-hgmd-cta-no-comments-button":"Get started today!",
+		"profile-hgmd-cta-with-comments-text":"Respond to your reviews and manage your personalized profile today!",
+		"profile-hgmd-cta-with-comments-button":"Post your response",
+		"profile-distribution-model-headline":"Likelihood to Recommend",
+		"survey-form-disclaimer-required":"Required Items",
+		"survey-form-disclaimer-first-sentence":"By submitting this form, you agree to the terms and conditions of the Healthgrades <a href=\"http://www.healthgrades.com/content/user-agreement\" target=\"_blank\">User Agreement</a>, <a href=\"http://www.healthgrades.com/content/editorial-policy\" target=\"_blank\">Editorial Policy</a>, and <a href=\"http://www.healthgrades.com/content/privacy-policy\" target=\"_blank\">Privacy Policy</a>, and certify you or a family member has had contact with this practice. You also confirm that you do not work for, are not in competition with and are not related to the provider in this review.",
+		"survey-form-disclaimer-email-phone":"Email Address & Phone Number",
+		"survey-form-disclaimer-second-sentence":"Your email address or phone number will NOT appear publicly with your review. When you submit your survey, we will either email or text you a verification link.",
+		"survey-form-disclaimer-third-sentence":"We may also email you future updates about Healthgrades content and products.",
+		"survey-form-disclaimer-fourth-sentence":"The additional information we collect helps Healthgrades offer the highest quality products for our audience. The optional details you submit about your gender, age group, and number of office visits are never linked directly to your identity.",
+		"profile-score-summary-headline":"Likelihood of recommending <span class=\"no-wrap\">Dr. Oh</span> to <span class=\"no-wrap\">family and friends</span>",
+		"profile-hgmd-cta-headline":"Are you Dr. Oh?",
+		"profile-global-provider-response-header":"Dr. Oh Says:"
+	},
+	"model":{
+		"overall":{
+			"id":0,
+			"title":null,
+			"responseCount":64,
+			"reviewCount":18,
+			"actualScore":4.9,
+			"roundedScore":5.0,
+			"text":null
+		},
+		"insights":{
+			"title":"Key Survey Insights",
+			"aggregates":[
+				{
+					"id":9,
+					"title":"Trustworthiness",
+					"responseCount":64,
+					"reviewCount":0,
+					"actualScore":4.9,
+					"roundedScore":5.0,
+					"text":""
+				},
+				{
+					"id":10,
+					"title":"Helpfulness",
+					"responseCount":64,
+					"reviewCount":0,
+					"actualScore":4.8,
+					"roundedScore":5.0,
+					"text":""
+				},
+				{
+					"id":11,
+					"title":"Staff",
+					"responseCount":64,
+					"reviewCount":0,
+					"actualScore":4.9,
+					"roundedScore":5.0,
+					"text":""
+				},
+				{
+					"id":12,
+					"title":"Scheduling",
+					"responseCount":64,
+					"reviewCount":0,
+					"actualScore":4.8,
+					"roundedScore":5.0,
+					"text":""
+				}
+			]
+		},
+		"cards":[
+			{
+				"title":"Experience with Dr. Oh",
+				"aggregates":[
+					{
+						"id":1,
+						"title":"Level of trust in provider's decisions",
+						"responseCount":64,
+						"reviewCount":0,
+						"actualScore":4.9,
+						"roundedScore":5.0,
+						"text":""
+					},
+					{
+						"id":2,
+						"title":"How well provider explains medical condition(s)",
+						"responseCount":64,
+						"reviewCount":0,
+						"actualScore":4.8,
+						"roundedScore":5.0,
+						"text":""
+					},
+					{
+						"id":3,
+						"title":"How well provider listens and answers questions",
+						"responseCount":64,
+						"reviewCount":0,
+						"actualScore":4.8,
+						"roundedScore":5.0,
+						"text":""
+					},
+					{
+						"id":4,
+						"title":"Spends appropriate amount of time with patients",
+						"responseCount":64,
+						"reviewCount":0,
+						"actualScore":4.8,
+						"roundedScore":5.0,
+						"text":""
+					}
+				]
+			},
+			{
+				"title":"Dr. Oh's Office & Staff",
+				"aggregates":[
+					{
+						"id":5,
+						"title":"Ease of scheduling urgent appointments",
+						"responseCount":64,
+						"reviewCount":0,
+						"actualScore":4.8,
+						"roundedScore":5.0,
+						"text":""
+					},
+					{
+						"id":6,
+						"title":"Office environment, cleanliness, comfort, etc.",
+						"responseCount":64,
+						"reviewCount":0,
+						"actualScore":4.9,
+						"roundedScore":5.0,
+						"text":""
+					},
+					{
+						"id":7,
+						"title":"Staff friendliness and courteousness",
+						"responseCount":64,
+						"reviewCount":0,
+						"actualScore":4.9,
+						"roundedScore":5.0,
+						"text":""
+					},
+					{
+						"id":8,
+						"title":"Total wait time (waiting & exam rooms)",
+						"responseCount":59,
+						"reviewCount":0,
+						"actualScore":4.0,
+						"roundedScore":4.0,
+						"text":"10 – 15 minutes"
+					}
+				]
+			}
+		],
+		"displayName":"Dr. Oh",
+		"providerCode":"YN6RL",
+		"providerName":"Dr. Luke S. Oh, MD",
+		"providerPossessiveName":"Dr. Oh's",
+		"providerUrl":"//www.healthgrades.com/physician/dr-luke-oh-yn6rl",
+		"surveysSuppressed":false,
+		"commentsSuppressed":false,
+		"lastSurveyDate":"0001-01-01T00:00:00",
+		"comments":{
+			"results":[
+				{
+					"commentId":"df577434-b60f-455f-822d-faf1231aeb06",
+					"overallScore":5.0,
+					"displayName":"Denise R",
+					"location":"Boston, MA",
+					"submittedDate":"Jan 28, 2017",
+					"commentText":"Dr Oh is an outstanding physician and surgeon. Besides the fact that he is technically superb, he is kind, considerate, and thoughtful. His goal is to obtain the best possible outcome for every patient. I'm just an average runner/swimmer/bicyclist and he treated me as if I were an olympian. I had an unbelievably amazing outcome from rotator cuff surgery. As a physician myself, I can truly say that he is the physician's physician, a role model for me, and simply, the \"best of boston\"!",
+					"reviewHelpful":"UnAnswered",
+					"flagged":"NotFlagged",
+					"allowFlagging":true,
+					"providerResponse":{
+						"providerSurveyCommentID":0,
+						"commentText":null,
+						"isFromProvider":false,
+						"flagCount":0,
+						"commentStatusID":0,
+						"insertedOn":"January 1, 0001",
+						"flagged":"NotFlagged"
+					}
+				},
+				{
+					"commentId":"de95bc09-3afe-4ca1-aca4-ec8a034e4c4f",
+					"overallScore":5.0,
+					"displayName":"Denise R",
+					"location":"Boston, MA",
+					"submittedDate":"Jan 28, 2017",
+					"commentText":"Dr Oh is an outstanding physician and surgeon. Besides the fact that he is technically superb, he is kind, considerate, and thoughtful. He wants all of his patients to obtain the best outcome possible. I'm just an average runner/swimmer/bicyclist and he treated me as if I were an olympian. I had an unbelievably amazing outcome from rotator cuff surgery. As a physician myself, I can truly say that he is the \"physician's physician\", and \"best of boston\"!",
+					"reviewHelpful":"UnAnswered",
+					"flagged":"NotFlagged",
+					"allowFlagging":true,
+					"providerResponse":{
+						"providerSurveyCommentID":0,
+						"commentText":null,
+						"isFromProvider":false,
+						"flagCount":0,
+						"commentStatusID":0,
+						"insertedOn":"January 1, 0001",
+						"flagged":"NotFlagged"
+					}
+				},
+				{
+					"commentId":"c026527c-4d97-4e57-84ff-165e6c09f761",
+					"overallScore":5.0,
+					"displayName":"Michael D.",
+					"location":"Boston, MA",
+					"submittedDate":"Jan 11, 2017",
+					"commentText":"First time meeting Dr. Oh, I was very impressed with his knowledge given the situation I was in.  He used relevant stories and scenarios to help me understand the medical jargon.  He and his staff were very easy to call and speak with no matter the issue.  I am a visual learner so it was very easy and helpful to see diagrams and scans of what I was dealing with and how it would look post-recovery.  He was very thorough and I am very happy with how my surgery and recovery has gone.  ",
+					"reviewHelpful":"UnAnswered",
+					"flagged":"NotFlagged",
+					"allowFlagging":true,
+					"providerResponse":{
+						"providerSurveyCommentID":0,	
+						"commentText":null,
+						"isFromProvider":false,
+						"flagCount":0,
+						"commentStatusID":0,
+						"insertedOn":"January 1, 0001",
+						"flagged":"NotFlagged"
+					}
+				},
+				{
+					"commentId":"ea8ad433-99da-45bd-848b-d8adc157b1f8",
+					"overallScore":5.0,
+					"displayName":"Drew",
+					"location":"Ayer, MA",
+					"submittedDate":"Nov 12, 2016",
+					"commentText":"Dr. Oh, as well as the entire team at MGH, was world-class. I'm 36 hours post 180-degree labrum repair with zero pain and stiffness. I couldn't imagine having a better team or outcome.",
+					"reviewHelpful":"UnAnswered",
+					"flagged":"NotFlagged",
+					"allowFlagging":true,
+					"providerResponse":{
+						"providerSurveyCommentID":0,
+						"commentText":null,
+						"isFromProvider":false,
+						"flagCount":0,
+						"commentStatusID":0,
+						"insertedOn":"January 1, 0001",
+						"flagged":"NotFlagged"
+					}
+				},
+				{
+					"commentId":"9e969a1a-ee63-4614-aa1c-a87c083d7c98",
+					"overallScore":5.0,
+					"displayName":"Sue Ramsey",
+					"location":"Warren, MA",
+					"submittedDate":"Nov 01, 2016",
+					"commentText":" Dr. Oh took the time to fully explain my options, answered all of my questions, and gave me a realistic view of what to expect during my surgery & recovery.  I chose to have Dr. Oh perform my rotator cuff surgery.  I am 6 months out and doing great!  I would recommend him highly!",
+					"reviewHelpful":"UnAnswered",
+					"flagged":"NotFlagged",
+					"allowFlagging":true,
+					"providerResponse":{
+						"providerSurveyCommentID":0,
+						"commentText":null,
+						"isFromProvider":false,
+						"flagCount":0,
+						"commentStatusID":0,
+						"insertedOn":"January 1, 0001",
+						"flagged":"NotFlagged"
+					}
+				},
+				{
+					"commentId":"89c7034a-d33f-4c24-9662-a7cdb428ab48",
+					"overallScore":5.0,
+					"displayName":"Keith D.",
+					"location":"Marshfield, MA",
+					"submittedDate":"Sep 19, 2016",
+					"commentText":"Dr. Oh performed distal bicep repair on my right arm. I don't think he gives his work enough credit. I somehow came out of surgery after being opened up in 2 different places on my arm and I wasn't in any pain. I knew something had been done but I wasn't in agony. I didn't take any of the pain meds prescribed. I am now 6 months out of surgery. My arm fully functional and my strength is right where it was before. If I were to need ANY ortho surgery he would be ONLY one I would go to. He's theBEST",
+					"reviewHelpful":"UnAnswered",
+					"flagged":"NotFlagged",
+					"allowFlagging":true,
+					"providerResponse":{
+						"providerSurveyCommentID":0,
+						"commentText":null,
+						"isFromProvider":false,
+						"flagCount":0,
+						"commentStatusID":0,
+						"insertedOn":"January 1, 0001",
+						"flagged":"NotFlagged"
+					}
+				},
+				{
+					"commentId":"c3604746-b054-4edc-a7d1-cb6643c2e1b9",
+					"overallScore":5.0,
+					"displayName":"Kristin C.",
+					"location":"Norwood, MA",
+					"submittedDate":"Aug 20, 2016",
+					"commentText":"Our family is very active and each of us have had injuries over the years which required surgery by Dr. Oh. Our daughter (college soccer player) had an ACL reconstruction, our son had a shoulder labral repair (high school football and baseball), and my husband had a rotator cuff repair recently. Everyone is doing well. It may sound strange but we don't fear surgery the way that we used to because we have Dr. Oh as our surgeon. We trust him completely. He is thorough with a great beside manner.",
+					"reviewHelpful":"UnAnswered",
+					"flagged":"NotFlagged",
+					"allowFlagging":true,
+					"providerResponse":{
+						"providerSurveyCommentID":0,
+						"commentText":null,
+						"isFromProvider":false,
+						"flagCount":0,
+						"commentStatusID":0,
+						"insertedOn":"January 1, 0001",
+						"flagged":"NotFlagged"
+					}
+				},
+				{
+					"commentId":"8412674b-7c5d-4a0e-a74d-0a72f6fb24f5",
+					"overallScore":5.0,
+					"displayName":"Kim S",
+					"location":"Salem, MA",
+					"submittedDate":"Jun 01, 2016",
+					"commentText":"Excellent care for my teenage son's serious and uncommon knee injury.  Dr. Oh made sure to always make eye contact with him, be sure he understood exactly what was going on and did not make light of the seriousness, without scaring him!   Never rushed through any visits.  His office admin always answered calls timely and made every effort to make sure all understood the surgical and follow up processes. Outcome was amazing due to Dr. Oh's skills.",
+					"reviewHelpful":"UnAnswered",
+					"flagged":"NotFlagged",
+					"allowFlagging":true,
+					"providerResponse":{
+						"providerSurveyCommentID":0,
+						"commentText":null,
+						"isFromProvider":false,
+						"flagCount":0,
+						"commentStatusID":0,
+						"insertedOn":"January 1, 0001",
+						"flagged":"NotFlagged"
+					}
+				},
+				{
+					"commentId":"94d6f577-e910-48c0-a19b-4bfb7d9116be",
+					"overallScore":5.0,
+					"displayName":"Alan ",
+					"location":"Chelmsford, MA",
+					"submittedDate":"May 17, 2016",
+					"commentText":"Dr. Oh was great. Explained in great detail of what to expect post surgery, and the results from the surgery were excellent. Very polite and great personality.",
+					"reviewHelpful":"UnAnswered",
+					"flagged":"NotFlagged",
+					"allowFlagging":true,
+					"providerResponse":{
+						"providerSurveyCommentID":0,
+						"commentText":null,
+						"isFromProvider":false,
+						"flagCount":0,
+						"commentStatusID":0,
+						"insertedOn":"January 1, 0001",
+						"flagged":"NotFlagged"
+					}
+				},
+				{
+					"commentId":"9cebc75e-1dea-4b3f-b4fe-1fbcab237b68",
+					"overallScore":5.0,
+					"displayName":"Tim",
+					"location":"Mansfield, MA",
+					"submittedDate":"Apr 09, 2016",
+					"commentText":"Dr. Oh repaired a ruptured tendon in my knee.  He fit me into his busy schedule which I appreciated very much.  I am a highly competitive runner and his exceptional work has me back competing at a high level once again.  From his friendly, yet straight-forward and easy to understand bedside manner, to his great technique, to his phenomenal assistant Kristy, it was a good experience given the circumstances.  I would highly recommend him to anyone, in particular competitive athletes.",
+					"reviewHelpful":"UnAnswered",
+					"flagged":"NotFlagged",
+					"allowFlagging":true,
+					"providerResponse":{
+						"providerSurveyCommentID":0,
+						"commentText":null,
+						"isFromProvider":false,
+						"flagCount":0,
+						"commentStatusID":0,
+						"insertedOn":"January 1, 0001",
+						"flagged":"NotFlagged"
+					}
+				},
+				{
+					"commentId":"41999734-af4e-4e2f-a496-601562744e1b",
+					"overallScore":5.0,
+					"displayName":"Garrett",
+					"location":"Brookline, MA",
+					"submittedDate":"Mar 30, 2016",
+					"commentText":"Fantastic doctor. I am a competitive Weight Lifter and Dr. Oh cleaned up my RC, an area that was pledged by chronic over use. If you have shoulder issues, this is your doctor! ",
+					"reviewHelpful":"UnAnswered",
+					"flagged":"NotFlagged",
+					"allowFlagging":true,
+					"providerResponse":{
+						"providerSurveyCommentID":0,
+						"commentText":null,
+						"isFromProvider":false,"flagCount":0,"commentStatusID":0,"insertedOn":"January 1, 0001","flagged":"NotFlagged"}},{"commentId":"472fcdf3-a2c5-4306-ac4d-7247eb53c497","overallScore":5.0,"displayName":"Richard Bamberger","location":"Brimfield, MA","submittedDate":"Mar 05, 2016","commentText":"To sum it up crudely, he is THE MAN.  He's straight forward, knowledgeable and charismatic, while still retaining an excellent bedside manner to the patient.  He is the model other physicians should base their attitude, profession and practice off of.  I could not be happier with his work.  I live an hour from the office but it was always a pleasure going in for my follow up appointments.  He, and the staff, made the trip worth it every time.  ","reviewHelpful":"UnAnswered","flagged":"NotFlagged","allowFlagging":true,"providerResponse":{"providerSurveyCommentID":0,"commentText":null,"isFromProvider":false,"flagCount":0,"commentStatusID":0,"insertedOn":"January 1, 0001","flagged":"NotFlagged"}},{"commentId":"37a846ec-5e8f-4691-a65c-d06a3844270c","overallScore":5.0,"displayName":"Lorri","location":"Medway, MA","submittedDate":"Feb 10, 2016","commentText":"Dr. Oh was highly recommended when our 15 year old son tore his UCL. We were able to get in for an appointment fairly quickly thanks to his amazing assistant Kristy. Dr. Oh was very informative and thorough at our first visit when we were told he would need Tommy John. \r\n\r\nWe already knew he was a great surgeon but the way he interacted with our son was just as important. He took the time to explain the injury, surgery and post-surgery information so there were no surprises. ","reviewHelpful":"UnAnswered","flagged":"NotFlagged","allowFlagging":true,"providerResponse":{"providerSurveyCommentID":0,"commentText":null,"isFromProvider":false,"flagCount":0,"commentStatusID":0,"insertedOn":"January 1, 0001","flagged":"NotFlagged"}},{"commentId":"3e6a62c8-5b00-4a61-b0e5-f23f9816a23f","overallScore":5.0,"displayName":"Laura C","location":"Lexington, MA","submittedDate":"Jan 24, 2016","commentText":"My daughter (19) saw Dr. Oh for a torn UCL in her elbow, for which he did reconstructive surgery (Tommy John surgery). He is a gifted surgeon and had our complete confidence. We were not disappointed even though it is scary surgery with a one year recuperation. The results are amazing! Also, he and his staff could not be easier to deal with, he fully explains everything, and he takes as much time as we need at all appointments. He is warm, encouraging and personable. I highly recommend Dr. Oh. ","reviewHelpful":"UnAnswered","flagged":"NotFlagged","allowFlagging":true,"providerResponse":{"providerSurveyCommentID":0,"commentText":null,"isFromProvider":false,"flagCount":0,"commentStatusID":0,"insertedOn":"January 1, 0001","flagged":"NotFlagged"}},{"commentId":"27a79bee-cc62-4fa1-a659-f7a7b238cb60","overallScore":5.0,"displayName":null,"location":null,"submittedDate":"Jan 16, 2016","commentText":"Dr Oh spent an incredible amount of time with our son who had torn his ACL/MCL in football.  He and his team did an extensive history, including our son's athletic short and long term goals when weighing the various options, including ACL reconstruction.  He listened hard, answered all questions thoroughly and educated us about the various reconstruction options.  I felt that he really looked at the big picture and not just the surgery.  He is extremely approachable and warm.","reviewHelpful":"UnAnswered","flagged":"NotFlagged","allowFlagging":true,"providerResponse":{"providerSurveyCommentID":0,"commentText":null,"isFromProvider":false,"flagCount":0,"commentStatusID":0,"insertedOn":"January 1, 0001","flagged":"NotFlagged"}},{"commentId":"94c212e6-bad2-41ab-9afe-59b1ebcb5546","overallScore":5.0,"displayName":"john boston","location":"Boston, MA","submittedDate":"Jan 08, 2016","commentText":"Dr. Oh is the best doctor i have ever encountered. I feel blessed to be able to trust him with my health and well being.","reviewHelpful":"UnAnswered","flagged":"NotFlagged","allowFlagging":true,"providerResponse":{"providerSurveyCommentID":0,"commentText":null,"isFromProvider":false,"flagCount":0,"commentStatusID":0,"insertedOn":"January 1, 0001","flagged":"NotFlagged"}},{"commentId":"ffe7ff68-3af4-4cce-9649-f9ae083c7cc0","overallScore":5.0,"displayName":"Tommy D.","location":"Manchester, NH","submittedDate":"Jan 06, 2016","commentText":"Dr. Oh was a wonderful doctor! He was straightforward, professional, knowledgeable, and friendly. I felt confident in his diagnosis and was extremely satisfied with his surgery skills. I would recommend him without any reservations.","reviewHelpful":"UnAnswered","flagged":"NotFlagged","allowFlagging":true,"providerResponse":{"providerSurveyCommentID":0,"commentText":null,"isFromProvider":false,"flagCount":0,"commentStatusID":0,"insertedOn":"January 1, 0001","flagged":"NotFlagged"}},{"commentId":"f11c0df2-68ca-46de-adfa-6f4006b47b5e","overallScore":5.0,"displayName":"Ellen A","location":"East Falmouth, MA","submittedDate":"Jan 05, 2016","commentText":"Dr. Oh agreed to do a difficult rotator cuff surgery that other surgeons were reluctant to do. He was realistic about the risks but let me make the choice. So far, it has been a success.","reviewHelpful":"UnAnswered","flagged":"NotFlagged","allowFlagging":true,"providerResponse":{"providerSurveyCommentID":0,"commentText":null,"isFromProvider":false,"flagCount":0,"commentStatusID":0,"insertedOn":"January 1, 0001","flagged":"NotFlagged"}}],"totalCommentCount":18,"suppressed":false,"serverError":false},"flagReasons":[{"id":1,"statusDescription":"Profanity"},{"id":3,"statusDescription":"Privacy Concern"},{"id":5,"statusDescription":"Spam"},{"id":6,"statusDescription":"Wrong Provider"},{"id":100,"statusDescription":"Other"}],"templateModel":{"name":"HGSTANDARD","version":2,"providerId":"YN6RL","providerImage":"//d306gt4zvs7g2s.cloudfront.net/img/prov/Y/N/6/YN6RL_w120h160_v8251.jpg","mediumProviderImage":"//d306gt4zvs7g2s.cloudfront.net/img/prov/Y/N/6/YN6RL_w90h120_v8251.jpg","providerName":"Dr. Oh","providerDisplayFullName":"Dr. Luke S. Oh, MD","specialty":"Sports Medicine","questionGroups":[{"title":"Start Here","questions":[{"id":"231","type":"STARS","text":"Likelihood of recommending Dr. Oh to family and friends","required":true,"order":1,"options":[{"id":922,"text":"Excellent","score":1,"order":1,"stars":5,"value":922,"display":"Excellent"},{"id":923,"text":"Very Good","score":2,"order":2,"stars":4,"value":923,"display":"Very Good"},{"id":924,"text":"Good","score":3,"order":3,"stars":3,"value":924,"display":"Good"},{"id":925,"text":"Fair","score":4,"order":4,"stars":2,"value":925,"display":"Fair"},{"id":926,"text":"Poor","score":5,"order":5,"stars":1,"value":926,"display":"Poor"}]},{"id":"241","type":"COMMENT","text":"Tell us about your experience with Dr. Oh","required":false,"order":2,"options":[]}]},{"title":"Tell us about the office & staff","questions":[{"id":"223","type":"STARS","text":"Ease of scheduling urgent appointments","required":false,"order":3,"options":[{"id":879,"text":"Excellent","score":1,"order":1,"stars":5,"value":879,"display":"Excellent"},{"id":880,"text":"Very good","score":2,"order":2,"stars":4,"value":880,"display":"Very good"},{"id":881,"text":"Good","score":3,"order":3,"stars":3,"value":881,"display":"Good"},{"id":882,"text":"Fair","score":4,"order":4,"stars":2,"value":882,"display":"Fair"},{"id":883,"text":"Poor","score":5,"order":5,"stars":1,"value":883,"display":"Poor"}]},{"id":"224","type":"STARS","text":"Office environment, cleanliness, comfort, etc.","required":false,"order":4,"options":[{"id":885,"text":"Excellent","score":1,"order":1,"stars":5,"value":885,"display":"Excellent"},{"id":886,"text":"Very good","score":2,"order":2,"stars":4,"value":886,"display":"Very good"},{"id":887,"text":"Good","score":3,"order":3,"stars":3,"value":887,"display":"Good"},{"id":888,"text":"Fair","score":4,"order":4,"stars":2,"value":888,"display":"Fair"},{"id":889,"text":"Poor","score":5,"order":5,"stars":1,"value":889,"display":"Poor"}]},{"id":"225","type":"STARS","text":"Staff friendliness and courteousness","required":false,"order":5,"options":[{"id":891,"text":"Excellent","score":1,"order":1,"stars":5,"value":891,"display":"Excellent"},{"id":892,"text":"Very good","score":2,"order":2,"stars":4,"value":892,"display":"Very good"},{"id":893,"text":"Good","score":3,"order":3,"stars":3,"value":893,"display":"Good"},{"id":894,"text":"Fair","score":4,"order":4,"stars":2,"value":894,"display":"Fair"},{"id":895,"text":"Poor","score":5,"order":5,"stars":1,"value":895,"display":"Poor"}]},{"id":"226","type":"SLIDER","text":"Total wait time (waiting & exam rooms)","required":false,"order":6,"options":[{"id":897,"text":"Under 10 minutes","score":1,"order":1,"stars":1,"value":897,"display":"Under 10 minutes"},{"id":898,"text":"10 – 15 minutes","score":2,"order":2,"stars":2,"value":898,"display":"10 – 15 minutes"},{"id":899,"text":"16 – 30 minutes","score":3,"order":3,"stars":3,"value":899,"display":"16 – 30 minutes"},{"id":900,"text":"31 – 45 minutes","score":4,"order":4,"stars":4,"value":900,"display":"31 – 45 minutes"},{"id":901,"text":"Over 45 minutes","score":5,"order":5,"stars":5,"value":901,"display":"Over 45 minutes"}]}]},{"title":"Tell us about Dr. Oh","questions":[{"id":"230","type":"STARS","text":"Level of trust in provider's decisions","required":false,"order":7,"options":[{"id":917,"text":"Excellent","score":1,"order":1,"stars":5,"value":917,"display":"Excellent"},{"id":918,"text":"Very Good","score":2,"order":2,"stars":4,"value":918,"display":"Very Good"},{"id":919,"text":"Good","score":3,"order":3,"stars":3,"value":919,"display":"Good"},{"id":920,"text":"Fair","score":4,"order":4,"stars":2,"value":920,"display":"Fair"},{"id":921,"text":"Poor","score":5,"order":5,"stars":1,"value":921,"display":"Poor"}]},{"id":"229","type":"STARS","text":"How well provider explains medical condition(s)","required":false,"order":8,"options":[{"id":912,"text":"Excellent","score":1,"order":1,"stars":5,"value":912,"display":"Excellent"},{"id":913,"text":"Very Good","score":2,"order":2,"stars":4,"value":913,"display":"Very Good"},{"id":914,"text":"Good","score":3,"order":3,"stars":3,"value":914,"display":"Good"},{"id":915,"text":"Fair","score":4,"order":4,"stars":2,"value":915,"display":"Fair"},{"id":916,"text":"Poor","score":5,"order":5,"stars":1,"value":916,"display":"Poor"}]},{"id":"228","type":"STARS","text":"How well provider listens and answers questions","required":false,"order":9,"options":[{"id":907,"text":"Excellent","score":1,"order":1,"stars":5,"value":907,"display":"Excellent"},{"id":908,"text":"Very Good","score":2,"order":2,"stars":4,"value":908,"display":"Very Good"},{"id":909,"text":"Good","score":3,"order":3,"stars":3,"value":909,"display":"Good"},{"id":910,"text":"Fair","score":4,"order":4,"stars":2,"value":910,"display":"Fair"},{"id":911,"text":"Poor","score":5,"order":5,"stars":1,"value":911,"display":"Poor"}]},{"id":"227","type":"STARS","text":"Spends appropriate amount of time with patients","required":false,"order":10,"options":[{"id":902,"text":"Excellent","score":1,"order":1,"stars":5,"value":902,"display":"Excellent"},{"id":903,"text":"Very Good","score":2,"order":2,"stars":4,"value":903,"display":"Very Good"},{"id":904,"text":"Good","score":3,"order":3,"stars":3,"value":904,"display":"Good"},{"id":905,"text":"Fair","score":4,"order":4,"stars":2,"value":905,"display":"Fair"},{"id":906,"text":"Poor","score":5,"order":5,"stars":1,"value":906,"display":"Poor"}]}]},{"title":"Tell Us About Yourself","questions":[{"id":"242","type":"TEXT","text":"Display Name:","required":false,"order":11,"options":[]},{"id":"243","type":"TEXT","text":"City, State:","required":false,"order":12,"options":[]},{"id":"234","type":"RADIOBUTTON","text":"Your gender:","required":false,"order":13,"options":[{"id":941,"text":"Male","score":1,"order":1,"stars":1,"value":941,"display":"Male"},{"id":942,"text":"Female","score":2,"order":2,"stars":2,"value":942,"display":"Female"}]},{"id":"235","type":"SLIDER","text":"Your age group:","required":false,"order":14,"options":[{"id":983,"text":"18–24","score":1,"order":1,"stars":1,"value":983,"display":"18–24"},{"id":984,"text":"25–34","score":2,"order":2,"stars":2,"value":984,"display":"25–34"},{"id":985,"text":"35–44","score":3,"order":3,"stars":3,"value":985,"display":"35–44"},{"id":986,"text":"45–54","score":4,"order":4,"stars":4,"value":986,"display":"45–54"},{"id":987,"text":"55–64","score":5,"order":5,"stars":5,"value":987,"display":"55–64"},{"id":988,"text":"65+","score":6,"order":6,"stars":6,"value":988,"display":"65+"}]},{"id":"232","type":"SLIDER","text":"Number of office visits you've had in the last 2 years:","required":false,"order":15,"options":[{"id":974,"text":"0","score":1,"order":1,"stars":1,"value":974,"display":"0"},{"id":975,"text":"1","score":2,"order":2,"stars":2,"value":975,"display":"1"},{"id":976,"text":"2 - 5","score":3,"order":3,"stars":3,"value":976,"display":"2 - 5"},{"id":978,"text":"6 - 10","score":4,"order":4,"stars":4,"value":978,"display":"6 - 10"},{"id":979,"text":"11 - 30","score":5,"order":5,"stars":5,"value":979,"display":"11 - 30"},{"id":980,"text":"31 - 60","score":6,"order":6,"stars":6,"value":980,"display":"31 - 60"},{"id":981,"text":"61 - 100","score":7,"order":7,"stars":7,"value":981,"display":"61 - 100"},{"id":982,"text":"100+","score":8,"order":8,"stars":8,"value":982,"display":"100+"}]}]},{"title":"Finish Here","questions":[{"id":"246","type":"RADIOBUTTON","text":"How would you like to confirm your survey information?","required":true,"order":16,"options":[{"id":972,"text":"Email","score":0,"order":1,"stars":null,"value":972,"display":"Email"},{"id":973,"text":"Phone","score":0,"order":2,"stars":null,"value":973,"display":"Phone"}]},{"id":"244","type":"EMAIL","text":"Email Address:","required":true,"order":17,"options":[]},{"id":"247","type":"PHONE","text":"Phone Number:","required":false,"order":18,"options":[]}]}]},"newTemplateModel":null,"useNewForm":false,"providerResponseAboutMe":{"providerHasSurveyResponse":false,"responseText":null,"responseRegistrationUrl":"https://update.healthgrades.com/account/register/YN6RL?pCID=hg3-profile-pes-response"},"smallImageUrl":"//d306gt4zvs7g2s.cloudfront.net/img/prov/Y/N/6/YN6RL_w60h80_v8251.jpg","mediumImageUrl":"//d306gt4zvs7g2s.cloudfront.net/img/prov/Y/N/6/YN6RL_w90h120_v8251.jpg","largeImageUrl":"//d306gt4zvs7g2s.cloudfront.net/img/prov/Y/N/6/YN6RL_w120h160_v8251.jpg","specialty":"Sports Medicine","surveyDistribution":{"totalResponseCount":61,"aggregates":[{"star":5,"count":60},{"star":4,"count":0},{"star":3,"count":0},{"star":2,"count":0},{"star":1,"count":1}]},"hideProviderCTA":false},"commentsSuppressed":false,"hasComments":true,"serverError":false};
+
+
+
+
+
+
+
+
+
+
+
+
+
