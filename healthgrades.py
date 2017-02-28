@@ -4,6 +4,7 @@ import ipdb
 import csv
 import json
 import time
+import sys
 
 what_we_want = {}
 
@@ -91,9 +92,10 @@ def get_provider_profile_data(url, doc):
 
 	profile_provider_to_the_end = html_string[html_string.find('profile.provider'):]
 	profile_provider = profile_provider_to_the_end[len('profile.provider = '):profile_provider_to_the_end.find(';\r\n')]
+	profile_provider = profile_provider[:profile_provider.find(';\n\t\t')]
 
 	locations_provider_to_the_end = html_string[html_string.find('pageState.facilityLocations'):]
-	locations_provider = locations_provider_to_the_end[len('pageState.facilityLocations = '):locations_provider_to_the_end.find(';\r\n')]
+	locations_provider = locations_provider_to_the_end[len('pageState.facilityLocations = '):locations_provider_to_the_end.find(';\n')]
 
 	info_dict = {}
 
@@ -127,16 +129,16 @@ def get_provider_profile_data(url, doc):
 		affiliated_hospital_dict = {}
 		if affiliated_hospitals:
 			for i, hospital in enumerate(affiliated_hospitals):
-				affiliated_hospital_dict['affiliated_hospital_' + i + '_name'] = hospital.get('name')
-				affiliated_hospital_dict['affiliated_hospital_' + i + '_teaching'] = hospital.get('isTeachingHospital')
+				affiliated_hospital_dict['affiliated_hospital_' + str(i) + '_name'] = hospital.get('name')
+				affiliated_hospital_dict['affiliated_hospital_' + str(i) + '_teaching'] = hospital.get('isTeachingHospital')
 
 
 		fellowship_filter = [{'name': education['name'], 'year': education['year']} for education in educations if education['educationType'] == 'FELLOW']
 		fellow_dict = {}
 		if fellowship_filter:
 			for i, fellowship in enumerate(fellowship_filter):
-				fellow_dict['fellow_' + i + '_name'] = fellowship['name']
-				fellow_dict['fellow_' + i + '_year'] = fellowship['year']
+				fellow_dict['fellow_' + str(i) + '_name'] = fellowship['name']
+				fellow_dict['fellow_' + str(i) + '_year'] = fellowship['year']
 
 		insurances = len(profile_provider_json.get('insuranceAccepted'))
 		medicare = False
@@ -184,7 +186,19 @@ def get_provider_profile_data(url, doc):
 		info_dict.update(survey_scores)
 
 		return info_dict
+
+	except ValueError as e:
+		ipdb.set_trace()
+		print e
+		return info_dict.update(survey_scores)
+
+	except TypeError as e:
+		print e
+		ipdb.set_trace()
+
 	except:
+
+		print("Unexpected error:", sys.exc_info()[0])
 		return info_dict.update(survey_scores)
 
 
