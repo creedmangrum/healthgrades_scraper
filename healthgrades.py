@@ -36,19 +36,19 @@ specialties = [
 	# {
 	# 	'what': 'Orthopaedics',
 	# 	'searchType': 'SpecialtyVertical'
-	# },
-	# {
-	# 	'what': 'Orthopedic Surgery',
-	# 	'searchType': 'Practicing Specialty'
-	# },
+	# }
+	{
+		'what': 'Orthopedic Surgery',
+		'searchType': 'Practicing Specialty'
+	},
 	# {
 	# 	'what': 'Pulmonology',
 	# 	'searchType': 'Practicing Specialty'
 	# },
-	{
-		'what': 'Obstetrics & Gynecology',
-		'searchType': 'Practicing Specialty'
-	}
+	# {
+	# 	'what': 'Obstetrics & Gynecology',
+	# 	'searchType': 'Practicing Specialty'
+	# }
 ]
 
 def get_provider_profile_data(url, doc):
@@ -208,7 +208,7 @@ for specialty in specialties:
 	what_we_want[specialty.get('what')] = []
 	total_count = 1
 	search_page = 1
-	while len(what_we_want[specialty.get('what')]) < 10:
+	while len(what_we_want[specialty.get('what')]) < total_count:
 		start = time.time()
 
 		search_params['pageNum'] = search_page
@@ -252,7 +252,11 @@ with open('doc.csv', 'wb') as csvfile:
 	writer.writerow(what_we_want[what_we_want.keys()[0]][0].keys())
 	for spec, doctors in what_we_want.iteritems():
 		for doctor in doctors:
-			writer.writerow(doctor.values())
+			try:
+				writer.writerow(doctor.values())
+			except:
+				print('error with: ' + doctor['name'])
+				continue
 
 
 
