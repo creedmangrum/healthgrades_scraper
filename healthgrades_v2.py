@@ -540,7 +540,7 @@ for specialty in specialties_to_search:
 	search_page = 1
 	counter = 0
 
-	while counter < 300:
+	while counter < total_count:
 		start = time.time()
 
 		search_params['pageNum'] = search_page
