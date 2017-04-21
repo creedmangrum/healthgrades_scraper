@@ -540,6 +540,10 @@ for specialty in specialties_to_search:
 	search_page = 1
 	counter = 0
 
+	# if specialty == 'AAC':
+	# 	search_page = 24
+	# 	counter = search_page * 100
+
 	while counter < total_count:
 		start = time.time()
 
