@@ -1,0 +1,23 @@
+[
+  {
+    "PracticeName": null,
+    "Name": "Massachusetts General Hospital",
+    "Label": null,
+    "Street": "55 Fruit St",
+    "City": "Boston",
+    "State": "MA",
+    "Latitude": 42.362457,
+    "Longitude": -71.069374,
+    "PostalCode": "02114",
+    "MapIcon": "B",
+    "DirectionsUrl": null,
+    "DirectionsButtonId": null,
+    "Id": "60C282",
+    "Phone": null,
+    "Fax": null,
+    "MainImageUrl": "",
+    "MainSiteUrl": "/hospital-directory/massachusetts-ma-boston/massachusetts-general-hospital-hgste0d52386220071",
+    "OfficeHours": [],
+    "Address": "55 Fruit St, Boston, MA 02114"
+  }
+]

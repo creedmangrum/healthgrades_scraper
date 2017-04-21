@@ -1,0 +1,2481 @@
+{
+  "productCode": null,
+  "carePhilosophy": null,
+  "displayStatusCode": "A",
+  "subStatusCode": "1",
+  "acceptsNewPatients": true,
+  "hCardId": "hcard-john-l-prue",
+  "professionalType": 0,
+  "providerUrl": "/physician/dr-john-prue-y6nqq",
+  "providerUrlRelative": "/physician/dr-john-prue-y6nqq",
+  "id": "Y6NQQ",
+  "suppressSurveys": false,
+  "surveyUserCount": 9,
+  "pesServerError": false,
+  "surveyOverallRatingPercent": 80.0,
+  "surveyOverallRatingScore": 4.0,
+  "isRecommendedProvider": true,
+  "providerResponseToSurveyResults": null,
+  "providerResponseToSurveyResultsDate": null,
+  "regionLicenses": [
+    {
+      "region": {
+        "regionAbbreviation": "NJ",
+        "regionName": "New Jersey",
+        "cities": null,
+        "cityInitials": null,
+        "isCountry": false,
+        "zip": null,
+        "coordinates": null,
+        "nation": "USA",
+        "hasProviders": false,
+        "supressRegionLink": false
+      }
+    },
+    {
+      "region": {
+        "regionAbbreviation": "NY",
+        "regionName": "New York",
+        "cities": null,
+        "cityInitials": null,
+        "isCountry": false,
+        "zip": null,
+        "coordinates": null,
+        "nation": "USA",
+        "hasProviders": false,
+        "supressRegionLink": false
+      }
+    }
+  ],
+  "primaryPracticingSpecialty": {
+    "practicingSpecialityName": "Obstetrics & Gynecology",
+    "practicingSpecialityCode": "PS574",
+    "practicingSpecialityRank": "1",
+    "practicingSpecialitySearch": 1,
+    "practicingSpecialityNameIst": "Obstetrics & Gynecology Specialist",
+    "practicingSpecialityNameIsts": "Obstetrics & Gynecology Specialists",
+    "rollupPracticingSpecialityCode": "PS574",
+    "rollupPracticingSpecialityId": 45,
+    "rollupPracticingSpecialtyGroupCode": "OBGY"
+  },
+  "providerPracticingSpecialties": [
+    {
+      "practicingSpecialityName": "Obstetrics & Gynecology",
+      "practicingSpecialityCode": "PS574",
+      "practicingSpecialityRank": "1",
+      "practicingSpecialitySearch": 1,
+      "practicingSpecialityNameIst": "Obstetrics & Gynecology Specialist",
+      "practicingSpecialityNameIsts": "Obstetrics & Gynecology Specialists",
+      "rollupPracticingSpecialityCode": "PS574",
+      "rollupPracticingSpecialityId": 45,
+      "rollupPracticingSpecialtyGroupCode": "OBGY"
+    }
+  ],
+  "specialties": [
+    {
+      "id": 45,
+      "isPrimarySpecialty": true,
+      "isSearchable": true,
+      "name": "Obstetrics & Gynecology",
+      "specialistName": "Obstetrics & Gynecology Specialist",
+      "specialistsName": "Obstetrics & Gynecology Specialists",
+      "specialtyBoard": null,
+      "specialtyCode": "OBGY",
+      "practicingSpecialtyCode": null,
+      "serviceLines": [
+        {
+          "name": null,
+          "starRating": null,
+          "ratingDisplayYear": null,
+          "procedures": [],
+          "stars": null,
+          "nationalStars": null,
+          "facilityStars": null,
+          "code": "SLMCA"
+        }
+      ],
+      "specialtyUrl": null,
+      "description": null,
+      "seoName": null,
+      "seoDirectoryTitleName": null,
+      "priority": 0.0,
+      "procedures": null,
+      "conditions": null,
+      "targetedPriority": 0.0,
+      "title": null,
+      "rank": 0,
+      "adCode": null,
+      "cityStateSearchUrl": null,
+      "rootDirectoryUrl": null,
+      "providerSearchUrl": null,
+      "professionalType": 0,
+      "cssOverride": null
+    }
+  ],
+  "providerCertifications": [
+    {
+      "certificationCode": "COBGY",
+      "certificationName": "Obstetrics & Gynecology",
+      "certificationRank": "",
+      "certificationSearch": "",
+      "certifyingAuthorityCode": "ABMS",
+      "certifyingAuthorityName": "American Board of Medical Specialties",
+      "certifyingAuthorityBoardCode": "ABOBGY",
+      "certifyingAuthorityBoardName": "American Board of Obstetrics & Gynecology",
+      "certificationStatusCode": "C",
+      "certificationStatusDescription": "Certified",
+      "certificationEffectiveDate": null,
+      "certificationExpirationDate": null
+    }
+  ],
+  "primarySpecialty": {
+    "id": 45,
+    "isPrimarySpecialty": true,
+    "isSearchable": true,
+    "name": "Obstetrics & Gynecology",
+    "specialistName": "Obstetrics & Gynecology Specialist",
+    "specialistsName": "Obstetrics & Gynecology Specialists",
+    "specialtyBoard": null,
+    "specialtyCode": "OBGY",
+    "practicingSpecialtyCode": null,
+    "serviceLines": [
+      {
+        "name": null,
+        "starRating": null,
+        "ratingDisplayYear": null,
+        "procedures": [],
+        "stars": null,
+        "nationalStars": null,
+        "facilityStars": null,
+        "code": "SLMCA"
+      }
+    ],
+    "specialtyUrl": null,
+    "description": null,
+    "seoName": null,
+    "seoDirectoryTitleName": null,
+    "priority": 0.0,
+    "procedures": null,
+    "conditions": null,
+    "targetedPriority": 0.0,
+    "title": null,
+    "rank": 0,
+    "adCode": null,
+    "cityStateSearchUrl": null,
+    "rootDirectoryUrl": null,
+    "providerSearchUrl": null,
+    "professionalType": 0,
+    "cssOverride": null
+  },
+  "tipsSpecialty": null,
+  "practices": [
+    {
+      "name": "Gateway OBGYN Associates PC",
+      "description": "",
+      "medicalDirector": "",
+      "practiceSoftware": "",
+      "webSiteUrls": [
+        "gateway.com"
+      ],
+      "yearEstablished": 0,
+      "providerCount": 5,
+      "offices": [
+        {
+          "legacyId": "",
+          "otherUniqueId": "",
+          "officeGuid": "86D81E35-6A5F-49FD-BB13-3A5E2B9566A0",
+          "name": "Staten Island Office",
+          "averagePatientVolume": 0.0,
+          "produceduresOnSite": null,
+          "freeStandingSurgery": false,
+          "hasOnSiteSurgery": false,
+          "officeImageUrl": null,
+          "parking": false,
+          "parkingInfo": "",
+          "officeHours": [],
+          "sponsor": null,
+          "address": {
+            "address1": "78 Cromwell Ave Ste 1",
+            "address2": "",
+            "officeCode": null,
+            "officeGuid": null,
+            "location": {
+              "cityName": "Staten Island",
+              "cityAndState": "Staten Island, NY",
+              "cityStateZipBestMatch": "Staten Island, NY 10304",
+              "providerCount": 0,
+              "region": {
+                "regionAbbreviation": "NY",
+                "regionName": "New York",
+                "cities": null,
+                "cityInitials": null,
+                "isCountry": false,
+                "zip": "10304",
+                "coordinates": {
+                  "latitude": 40.59135,
+                  "longitude": -74.09885,
+                  "latLon": "40.59135, -74.09885"
+                },
+                "nation": "USA",
+                "hasProviders": false,
+                "supressRegionLink": false
+              },
+              "locRegion": {
+                "regionAbbreviation": "NY",
+                "regionName": "New York",
+                "cities": null,
+                "cityInitials": null,
+                "isCountry": false,
+                "zip": "10304",
+                "coordinates": {
+                  "latitude": 40.59135,
+                  "longitude": -74.09885,
+                  "latLon": "40.59135, -74.09885"
+                },
+                "nation": "USA",
+                "hasProviders": false,
+                "supressRegionLink": false
+              },
+              "isNeighborhood": false,
+              "regionAbbreviation": "NY"
+            },
+            "addressCode": "AA7YFY4"
+          },
+          "paymentMethodList": [],
+          "phoneNumbers": [
+            {
+              "phoneType": 1,
+              "number": "(718) 987-9175"
+            },
+            {
+              "phoneType": 2,
+              "number": "(718) 987-1322"
+            }
+          ],
+          "isPrimary": true,
+          "id": "OOO2Q4T",
+          "rank": 1,
+          "practiceUrl": "/group-directory/ny-new-york/staten-island/gateway-obgyn-associates-pc-ooo2q4t",
+          "email": null,
+          "practiceId": "PP38FFT"
+        }
+      ],
+      "legacyId": "",
+      "id": "PP38FFT",
+      "email": null,
+      "logoFileName": ""
+    }
+  ],
+  "primaryPractice": {
+    "name": "Gateway OBGYN Associates PC",
+    "description": "",
+    "medicalDirector": "",
+    "practiceSoftware": "",
+    "webSiteUrls": [
+      "gateway.com"
+    ],
+    "yearEstablished": 0,
+    "providerCount": 5,
+    "offices": [
+      {
+        "legacyId": "",
+        "otherUniqueId": "",
+        "officeGuid": "86D81E35-6A5F-49FD-BB13-3A5E2B9566A0",
+        "name": "Staten Island Office",
+        "averagePatientVolume": 0.0,
+        "produceduresOnSite": null,
+        "freeStandingSurgery": false,
+        "hasOnSiteSurgery": false,
+        "officeImageUrl": null,
+        "parking": false,
+        "parkingInfo": "",
+        "officeHours": [],
+        "sponsor": null,
+        "address": {
+          "address1": "78 Cromwell Ave Ste 1",
+          "address2": "",
+          "officeCode": null,
+          "officeGuid": null,
+          "location": {
+            "cityName": "Staten Island",
+            "cityAndState": "Staten Island, NY",
+            "cityStateZipBestMatch": "Staten Island, NY 10304",
+            "providerCount": 0,
+            "region": {
+              "regionAbbreviation": "NY",
+              "regionName": "New York",
+              "cities": null,
+              "cityInitials": null,
+              "isCountry": false,
+              "zip": "10304",
+              "coordinates": {
+                "latitude": 40.59135,
+                "longitude": -74.09885,
+                "latLon": "40.59135, -74.09885"
+              },
+              "nation": "USA",
+              "hasProviders": false,
+              "supressRegionLink": false
+            },
+            "locRegion": {
+              "regionAbbreviation": "NY",
+              "regionName": "New York",
+              "cities": null,
+              "cityInitials": null,
+              "isCountry": false,
+              "zip": "10304",
+              "coordinates": {
+                "latitude": 40.59135,
+                "longitude": -74.09885,
+                "latLon": "40.59135, -74.09885"
+              },
+              "nation": "USA",
+              "hasProviders": false,
+              "supressRegionLink": false
+            },
+            "isNeighborhood": false,
+            "regionAbbreviation": "NY"
+          },
+          "addressCode": "AA7YFY4"
+        },
+        "paymentMethodList": [],
+        "phoneNumbers": [
+          {
+            "phoneType": 1,
+            "number": "(718) 987-9175"
+          },
+          {
+            "phoneType": 2,
+            "number": "(718) 987-1322"
+          }
+        ],
+        "isPrimary": true,
+        "id": "OOO2Q4T",
+        "rank": 1,
+        "practiceUrl": "/group-directory/ny-new-york/staten-island/gateway-obgyn-associates-pc-ooo2q4t",
+        "email": null,
+        "practiceId": "PP38FFT"
+      }
+    ],
+    "legacyId": "",
+    "id": "PP38FFT",
+    "email": null,
+    "logoFileName": ""
+  },
+  "isActive": true,
+  "primaryOffice": {
+    "legacyId": "",
+    "otherUniqueId": "",
+    "officeGuid": "86D81E35-6A5F-49FD-BB13-3A5E2B9566A0",
+    "name": "Staten Island Office",
+    "averagePatientVolume": 0.0,
+    "produceduresOnSite": null,
+    "freeStandingSurgery": false,
+    "hasOnSiteSurgery": false,
+    "officeImageUrl": null,
+    "parking": false,
+    "parkingInfo": "",
+    "officeHours": [],
+    "sponsor": null,
+    "address": {
+      "address1": "78 Cromwell Ave Ste 1",
+      "address2": "",
+      "officeCode": null,
+      "officeGuid": null,
+      "location": {
+        "cityName": "Staten Island",
+        "cityAndState": "Staten Island, NY",
+        "cityStateZipBestMatch": "Staten Island, NY 10304",
+        "providerCount": 0,
+        "region": {
+          "regionAbbreviation": "NY",
+          "regionName": "New York",
+          "cities": null,
+          "cityInitials": null,
+          "isCountry": false,
+          "zip": "10304",
+          "coordinates": {
+            "latitude": 40.59135,
+            "longitude": -74.09885,
+            "latLon": "40.59135, -74.09885"
+          },
+          "nation": "USA",
+          "hasProviders": false,
+          "supressRegionLink": false
+        },
+        "locRegion": {
+          "regionAbbreviation": "NY",
+          "regionName": "New York",
+          "cities": null,
+          "cityInitials": null,
+          "isCountry": false,
+          "zip": "10304",
+          "coordinates": {
+            "latitude": 40.59135,
+            "longitude": -74.09885,
+            "latLon": "40.59135, -74.09885"
+          },
+          "nation": "USA",
+          "hasProviders": false,
+          "supressRegionLink": false
+        },
+        "isNeighborhood": false,
+        "regionAbbreviation": "NY"
+      },
+      "addressCode": "AA7YFY4"
+    },
+    "paymentMethodList": [],
+    "phoneNumbers": [
+      {
+        "phoneType": 1,
+        "number": "(718) 987-9175"
+      },
+      {
+        "phoneType": 2,
+        "number": "(718) 987-1322"
+      }
+    ],
+    "isPrimary": true,
+    "id": "OOO2Q4T",
+    "rank": 1,
+    "practiceUrl": "/group-directory/ny-new-york/staten-island/gateway-obgyn-associates-pc-ooo2q4t",
+    "email": null,
+    "practiceId": "PP38FFT"
+  },
+  "education": [
+    {
+      "educationType": "INTERN",
+      "name": "Kings County Hospital Center",
+      "year": 1975,
+      "location": null
+    },
+    {
+      "educationType": "MEDSCH",
+      "name": "New York Med Coll",
+      "year": 1974,
+      "location": null
+    },
+    {
+      "educationType": "RESIDE",
+      "name": "Kings County Hospital Center",
+      "year": 1977,
+      "location": null
+    }
+  ],
+  "malpractices": [
+    {
+      "complaint": "Zip Code or County of Event: 10304",
+      "formattedDate": "3/19/2012",
+      "malpracticeType": "Settlement",
+      "rangeOrAmountDisplay": "Above average",
+      "regionName": "New York",
+      "showDate": true,
+      "closedDate": "2012-03-19T00:00:00",
+      "rangeOrAmount": "Above average",
+      "amount": 0.0,
+      "location": {
+        "cityName": "",
+        "cityAndState": "New York",
+        "cityStateZipBestMatch": "New York",
+        "providerCount": 0,
+        "region": {
+          "regionAbbreviation": "NY",
+          "regionName": "New York",
+          "cities": null,
+          "cityInitials": null,
+          "isCountry": false,
+          "zip": "",
+          "coordinates": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "latLon": ""
+          },
+          "nation": "USA",
+          "hasProviders": false,
+          "supressRegionLink": false
+        },
+        "locRegion": {
+          "regionAbbreviation": "NY",
+          "regionName": "New York",
+          "cities": null,
+          "cityInitials": null,
+          "isCountry": false,
+          "zip": "",
+          "coordinates": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "latLon": ""
+          },
+          "nation": "USA",
+          "hasProviders": false,
+          "supressRegionLink": false
+        },
+        "isNeighborhood": false,
+        "regionAbbreviation": "NY"
+      }
+    }
+  ],
+  "sanctions": [
+    {
+      "actionTaken": "Probation",
+      "category": "Gross Negligence",
+      "description": "Please reference the following Document",
+      "formattedDate": "8/18/2016",
+      "location": {
+        "cityName": "",
+        "cityAndState": "New York",
+        "cityStateZipBestMatch": "New York",
+        "providerCount": 0,
+        "region": {
+          "regionAbbreviation": "NY",
+          "regionName": "New York",
+          "cities": null,
+          "cityInitials": null,
+          "isCountry": false,
+          "zip": "",
+          "coordinates": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "latLon": ""
+          },
+          "nation": "USA",
+          "hasProviders": false,
+          "supressRegionLink": false
+        },
+        "locRegion": {
+          "regionAbbreviation": "NY",
+          "regionName": "New York",
+          "cities": null,
+          "cityInitials": null,
+          "isCountry": false,
+          "zip": "",
+          "coordinates": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "latLon": ""
+          },
+          "nation": "USA",
+          "hasProviders": false,
+          "supressRegionLink": false
+        },
+        "isNeighborhood": false,
+        "regionAbbreviation": "NY"
+      },
+      "pdfPath": "https://www.healthgrades.com/media/english/pdf/sanctions/HGPY5346E5FF87564705308182016.pdf",
+      "recipientName": null,
+      "regionName": "New York",
+      "sanctionDate": "2016-08-18T00:00:00",
+      "showDate": true
+    }
+  ],
+  "affiliatedHospitals": [
+    {
+      "id": "8EC073",
+      "legacyId": "HGST520A7B36330160",
+      "acceptsMedicare": null,
+      "acceptsMedicaid": null,
+      "accreditation": null,
+      "address": {
+        "address1": "475 Seaview Ave",
+        "address2": "",
+        "officeCode": null,
+        "officeGuid": null,
+        "location": {
+          "cityName": "Staten Island",
+          "cityAndState": "Staten Island, NY",
+          "cityStateZipBestMatch": "Staten Island, NY 10305",
+          "providerCount": 0,
+          "region": {
+            "regionAbbreviation": "NY",
+            "regionName": "New York",
+            "cities": null,
+            "cityInitials": null,
+            "isCountry": false,
+            "zip": "10305",
+            "coordinates": {
+              "latitude": 40.583504,
+              "longitude": -74.085808,
+              "latLon": "40.583504, -74.085808"
+            },
+            "nation": "USA",
+            "hasProviders": false,
+            "supressRegionLink": false
+          },
+          "locRegion": {
+            "regionAbbreviation": "NY",
+            "regionName": "New York",
+            "cities": null,
+            "cityInitials": null,
+            "isCountry": false,
+            "zip": "10305",
+            "coordinates": {
+              "latitude": 40.583504,
+              "longitude": -74.085808,
+              "latLon": "40.583504, -74.085808"
+            },
+            "nation": "USA",
+            "hasProviders": false,
+            "supressRegionLink": false
+          },
+          "isNeighborhood": false,
+          "regionAbbreviation": "NY"
+        },
+        "addressCode": null
+      },
+      "addresses": [
+        {
+          "address1": "475 Seaview Ave",
+          "address2": "",
+          "officeCode": null,
+          "officeGuid": null,
+          "location": {
+            "cityName": "Staten Island",
+            "cityAndState": "Staten Island, NY",
+            "cityStateZipBestMatch": "Staten Island, NY 10305",
+            "providerCount": 0,
+            "region": {
+              "regionAbbreviation": "NY",
+              "regionName": "New York",
+              "cities": null,
+              "cityInitials": null,
+              "isCountry": false,
+              "zip": "10305",
+              "coordinates": {
+                "latitude": 40.583504,
+                "longitude": -74.085808,
+                "latLon": "40.583504, -74.085808"
+              },
+              "nation": "USA",
+              "hasProviders": false,
+              "supressRegionLink": false
+            },
+            "locRegion": {
+              "regionAbbreviation": "NY",
+              "regionName": "New York",
+              "cities": null,
+              "cityInitials": null,
+              "isCountry": false,
+              "zip": "10305",
+              "coordinates": {
+                "latitude": 40.583504,
+                "longitude": -74.085808,
+                "latLon": "40.583504, -74.085808"
+              },
+              "nation": "USA",
+              "hasProviders": false,
+              "supressRegionLink": false
+            },
+            "isNeighborhood": false,
+            "regionAbbreviation": "NY"
+          },
+          "addressCode": null
+        }
+      ],
+      "affiliatedFacilitiesInformation": null,
+      "affiliatedProviderCount": 0,
+      "businessOfficeHoursInformation": null,
+      "communityOutreachActivitiesInformation": null,
+      "communityOutreachProgramsInformation": null,
+      "communitySupportInformation": null,
+      "companyId": 0,
+      "description": null,
+      "directionsInformation": null,
+      "distinctions": null,
+      "educationAndTrainingInformation": null,
+      "emergencyPhoneLine": null,
+      "facilityAwards": null,
+      "achievementAwards": null,
+      "nonHealthGradesAward": null,
+      "facilityInformationItems": null,
+      "facilityRatings": null,
+      "traumaCenterDesignations": null,
+      "facilityType": 1,
+      "facilityTypeDescription": "Short-Term Acute Care",
+      "facilitySearchType": 1,
+      "facilityUrl": "/hospital-directory/new-york-ny-nyc-suburbs-long-island/staten-island-university-hospital-hgst520a7b36330160",
+      "fiveStarCount": 3,
+      "currentAwardCount": 2,
+      "foundationInformation": null,
+      "healthPlanInformation": null,
+      "hgid8": null,
+      "highlySatisfiedPercent": 61.0,
+      "hospitalAffiliationsInformation": null,
+      "mainImage": {
+        "type": null,
+        "description": null,
+        "width": null,
+        "height": null,
+        "url": ""
+      },
+      "isPdc": false,
+      "qualityScore": null,
+      "isSponsored": false,
+      "isTeachingHospital": null,
+      "languagesAndInterpretersInformation": null,
+      "mainPhoneLine": null,
+      "medicalServices": [],
+      "missionStatement": null,
+      "mortality": {},
+      "name": "Staten Island University Hospital",
+      "officeCloseTime": null,
+      "officeOpenTime": null,
+      "onSiteGuestServicesInformation": null,
+      "overallPatientSafety": null,
+      "parkingInformation": null,
+      "patientSafetyIndicators": null,
+      "physicianPhoneLine": null,
+      "professionalAffiliations": null,
+      "rating": 0.0,
+      "readmissionRates": null,
+      "recommendedCareRatings": null,
+      "regionalRelationships": null,
+      "residencyProgramApproval": null,
+      "religiousAffiliationsInformation": null,
+      "satisfactionRatings": null,
+      "serviceLines": null,
+      "ratedProcedures": [],
+      "specialProgramsInformation": null,
+      "sponsorship": null,
+      "sponsorCode": null,
+      "surroundingAreaInformation": null,
+      "teachingProgramsInformation": null,
+      "timelyAndEffectiveCare": null,
+      "topTenProceduresAndConditions": [],
+      "transplantCapabilitiesInformation": null,
+      "facilityRatingTransplants": null,
+      "treatmentSchedules": null,
+      "visitingHours": null,
+      "visitingHoursInformation": null,
+      "volunteerInformation": null,
+      "websiteUrl": null,
+      "yearEstablished": null,
+      "ownershipType": null,
+      "leaders": null,
+      "procedureRatings": null
+    }
+  ],
+  "aboutMe": [],
+  "awardsAndRecognitions": {
+    "has5StarHonor": false,
+    "hasRecognitionHonor": false,
+    "hasMemberships": false,
+    "honorRoll": null,
+    "memberships": [],
+    "affiliations": null,
+    "mediaAndPublications": []
+  },
+  "conditions": [
+    {
+      "ids": [
+        1127
+      ],
+      "code": "CN00000467",
+      "name": "Hyperlipidemia",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        14581
+      ],
+      "code": "CN000038F5",
+      "name": "Placenta Previa",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        254
+      ],
+      "code": "CN000000FE",
+      "name": "Endometriosis",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        464
+      ],
+      "code": "CN000001D0",
+      "name": "Osteoporosis",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51138
+      ],
+      "code": "CN0000C7C2",
+      "name": "Asymptomatic Post-Menopausal Status",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        4329
+      ],
+      "code": "CN000010E9",
+      "name": "Atrophic Vaginitis",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51186
+      ],
+      "code": "CN0000C7F2",
+      "name": "Mastodynia",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51192
+      ],
+      "code": "CN0000C7F8",
+      "name": "Multiple Gestation",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        5554
+      ],
+      "code": "CN000015B2",
+      "name": "Cervical Polyps",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        486
+      ],
+      "code": "CN000001E6",
+      "name": "Perimenopause",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        2598
+      ],
+      "code": "CN00000A26",
+      "name": "Preeclampsia",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51176
+      ],
+      "code": "CN0000C7E8",
+      "name": "Intrauterine Growth Restriction",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51224
+      ],
+      "code": "CN0000C818",
+      "name": "Symptomatic Menopause",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        2904
+      ],
+      "code": "CN00000B58",
+      "name": "Uterine Cancer",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        144
+      ],
+      "code": "CN00000090",
+      "name": "Cervical Cancer",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        1476
+      ],
+      "code": "CN000005C4",
+      "name": "Hypertension",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        14076
+      ],
+      "code": "CN000036FC",
+      "name": "Ovarian Cysts",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51229
+      ],
+      "code": "CN0000C81D",
+      "name": "Vaginitis and-or Vaginosis",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        20053
+      ],
+      "code": "CN00004E55",
+      "name": "Polycystic Ovarian Syndrome",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51159
+      ],
+      "code": "CN0000C7D7",
+      "name": "Encounters for Normal Pregnancies",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51171
+      ],
+      "code": "CN0000C7E3",
+      "name": "Hypertension Complicating Pregnancy, Childbirth and Postpartum",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51170
+      ],
+      "code": "CN0000C7E2",
+      "name": "HPV (Human Papillomavirus)",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51977
+      ],
+      "code": "CN0000CB09",
+      "name": "Coagulation Defects in Pregnancy and Postpartum",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51191
+      ],
+      "code": "CN0000C7F7",
+      "name": "Miscarriages",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51169
+      ],
+      "code": "CN0000C7E1",
+      "name": "Gestational Diabetes",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        843
+      ],
+      "code": "CN0000034B",
+      "name": "Uterine Prolapse",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51995
+      ],
+      "code": "CN0000CB1B",
+      "name": "Maternal Anemia",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        186
+      ],
+      "code": "CN000000BA",
+      "name": "Cervicitis",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        20017
+      ],
+      "code": "CN00004E31",
+      "name": "Osteopenia",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51681
+      ],
+      "code": "CN0000C9E1",
+      "name": "Menstrual Disorders (incl. Dysmenorrhea)",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        2153
+      ],
+      "code": "CN00000869",
+      "name": "Hemorrhoids",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51201
+      ],
+      "code": "CN0000C801",
+      "name": "Pap Smear Abnormalities",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        2905
+      ],
+      "code": "CN00000B59",
+      "name": "Uterine Fibroids",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        6700
+      ],
+      "code": "CN00001A2C",
+      "name": "Chronic Pelvic Pain",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        188
+      ],
+      "code": "CN000000BC",
+      "name": "Sexually Transmitted Diseases (STDs)",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51228
+      ],
+      "code": "CN0000C81C",
+      "name": "Vaginal and Pelvic Prolapse",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        695
+      ],
+      "code": "CN000002B7",
+      "name": "Uterine Diseases",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        1370
+      ],
+      "code": "CN0000055A",
+      "name": "Gynecologic Cancer",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        50903
+      ],
+      "code": "CN0000C6D7",
+      "name": "Bone Disorders",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        1765
+      ],
+      "code": "CN000006E5",
+      "name": "Cancer",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        4834
+      ],
+      "code": "CN000012E2",
+      "name": "Blood Disorders",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        18366
+      ],
+      "code": "CN000047BE",
+      "name": "Breast Diseases",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        17704
+      ],
+      "code": "CN00004528",
+      "name": "Urinary Disorders",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        4806
+      ],
+      "code": "CN000012C6",
+      "name": "Bleeding Disorders",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        14889
+      ],
+      "code": "CN00003A29",
+      "name": "Pregnancy-Related Disorders",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51108
+      ],
+      "code": "CN0000C7A4",
+      "name": "Blood Disorders in Pregnancy",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        18728
+      ],
+      "code": "CN00004928",
+      "name": "Abdominal Disorders",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        52268
+      ],
+      "code": "CN0000CC2C",
+      "name": "Menopausal and Postmenopausal Disorders",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    },
+    {
+      "ids": [
+        51142
+      ],
+      "code": "CN0000C7C6",
+      "name": "Breech Position",
+      "url": null,
+      "profType": null,
+      "seoName": null,
+      "conditionUrl": null,
+      "professionalType": 0,
+      "specialtyIds": null,
+      "practicingSpecialtyCodes": null
+    }
+  ],
+  "procedures": [
+    {
+      "ids": [
+        50490
+      ],
+      "code": "PR0000C53A",
+      "name": "Endocervical Curettage",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50646
+      ],
+      "code": "PR0000C5D6",
+      "name": "Fluid Contrast Ultrasound",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50618
+      ],
+      "code": "PR0000C5BA",
+      "name": "Destruction or Excision of Lesion of Cervix (incl. LEEP)",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50562
+      ],
+      "code": "PR0000C582",
+      "name": "Removal of Reproductive Organs (Hysterectomy, Oophorectomy, Salpingectomy, Salpingo-Oophorectomy, Resection of Peritoneal Malignancy)",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        51869
+      ],
+      "code": "PR0000CA9D",
+      "name": "Sympathectomy",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50692
+      ],
+      "code": "PR0000C604",
+      "name": "Vaginal Delivery and VBAC",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50511
+      ],
+      "code": "PR0000C54F",
+      "name": "Excision, Shaving, or Destruction of Skin and Subcutaneous Tissue (incl. Mohs Micrographic Surgery), Tissue Transfer",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50652
+      ],
+      "code": "PR0000C5DC",
+      "name": "Hysterectomy - Open",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50598
+      ],
+      "code": "PR0000C5A6",
+      "name": "C-Section",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        126
+      ],
+      "code": "PR0000007E",
+      "name": "Colposcopy",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        51371
+      ],
+      "code": "PR0000C8AB",
+      "name": "Vaginal Birth After Cesarean (VBAC)",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        806
+      ],
+      "code": "PR00000326",
+      "name": "Hysteroscopy",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50485
+      ],
+      "code": "PR0000C535",
+      "name": "Destruction or Excision of Vaginal Lesions",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        50610
+      ],
+      "code": "PR0000C5B2",
+      "name": "Birth Control",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52398
+      ],
+      "code": "PR0000CCAE",
+      "name": "Hepatitis Screening",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52395
+      ],
+      "code": "PR0000CCAB",
+      "name": "Hepatitis C Virus Screening",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52366
+      ],
+      "code": "PR0000CC8E",
+      "name": "Hepatitis B Virus Screening",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52396
+      ],
+      "code": "PR0000CCAC",
+      "name": "Human Papillomavirus DNA Testing",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52362
+      ],
+      "code": "PR0000CC8A",
+      "name": "Syphilis Screening",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52350
+      ],
+      "code": "PR0000CC7E",
+      "name": "Herpes Simplex Screening",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52372
+      ],
+      "code": "PR0000CC94",
+      "name": "Sexually Transmitted Infections Screening",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52349
+      ],
+      "code": "PR0000CC7D",
+      "name": "Rh Incompatibility Screening",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52374
+      ],
+      "code": "PR0000CC96",
+      "name": "Thyroid Screening",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52386
+      ],
+      "code": "PR0000CCA2",
+      "name": "Hepatitis A Screening",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52361
+      ],
+      "code": "PR0000CC89",
+      "name": "HIV Screening",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52368
+      ],
+      "code": "PR0000CC90",
+      "name": "Cholesterol Screening",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52348
+      ],
+      "code": "PR0000CC7C",
+      "name": "Anemia and Iron Deficiency Screening",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        1897
+      ],
+      "code": "PR00000769",
+      "name": "Pap Smear",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52391
+      ],
+      "code": "PR0000CCA7",
+      "name": "Osteoporosis Screening",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    },
+    {
+      "ids": [
+        52373
+      ],
+      "code": "PR0000CC95",
+      "name": "Fetal Monitoring",
+      "url": "",
+      "rating": null,
+      "profType": null,
+      "seoName": null,
+      "specialtyIds": null,
+      "procedureUrl": null,
+      "professionalType": 0,
+      "practicingSpecialtyCodes": null,
+      "relatedAwards": null
+    }
+  ],
+  "insuranceAccepted": [
+    {
+      "code": "AETNA",
+      "plans": [],
+      "payor": "Aetna"
+    },
+    {
+      "code": "AMERIB",
+      "plans": [],
+      "payor": "Amerigroup (Wellpoint)"
+    },
+    {
+      "code": "BLUECG",
+      "plans": [
+        {
+          "name": "Blue Card PPO"
+        }
+      ],
+      "payor": "Blue Cross Blue Shield"
+    },
+    {
+      "code": "CAPITB",
+      "plans": [
+        {
+          "name": "Capital District Physician's Health Plan (CDPHP) HMO"
+        }
+      ],
+      "payor": "Capital District Physician's Health Plan (CDPHP)"
+    },
+    {
+      "code": "CIGNA",
+      "plans": [
+        {
+          "name": "Cigna HMO"
+        },
+        {
+          "name": "Cigna PPO"
+        },
+        {
+          "name": "Open Access Plus"
+        }
+      ],
+      "payor": "Cigna"
+    },
+    {
+      "code": "COINCO",
+      "plans": [],
+      "payor": "Commercial Insurance Company"
+    },
+    {
+      "code": "EMBLEA",
+      "plans": [
+        {
+          "name": "Emblem Health"
+        },
+        {
+          "name": "Health Insurance Plan of Greater New York (HIP) PPO"
+        }
+      ],
+      "payor": "EmblemHealth"
+    },
+    {
+      "code": "EMPIRA",
+      "plans": [
+        {
+          "name": "Empire Blue Cross Blue Shield HMO"
+        }
+      ],
+      "payor": "Empire Blue Cross Blue Shield"
+    },
+    {
+      "code": "GRHECO",
+      "plans": [],
+      "payor": "Group Health Cooperative"
+    },
+    {
+      "code": "HLTHFI",
+      "plans": [],
+      "payor": "HealthFirst"
+    },
+    {
+      "code": "HUMANA",
+      "plans": [
+        {
+          "name": "Choice Care PPO"
+        }
+      ],
+      "payor": "Humana"
+    },
+    {
+      "code": "LOCALAL",
+      "plans": [],
+      "payor": "Locals (any local)"
+    },
+    {
+      "code": "MAGNA",
+      "plans": [],
+      "payor": "MagnaCare"
+    },
+    {
+      "code": "MEDAID",
+      "plans": [],
+      "payor": "Medicaid"
+    },
+    {
+      "code": "NATELE",
+      "plans": [],
+      "payor": "National Elevator"
+    },
+    {
+      "code": "OXHEPL",
+      "plans": [
+        {
+          "name": "Freedom Plan"
+        }
+      ],
+      "payor": "Oxford Health Plans"
+    },
+    {
+      "code": "QC",
+      "plans": [],
+      "payor": "QualCare"
+    },
+    {
+      "code": "UNITHC",
+      "plans": [
+        {
+          "name": "Oxford Liberty"
+        },
+        {
+          "name": "United Healthcare"
+        }
+      ],
+      "payor": "UnitedHealthCare"
+    }
+  ],
+  "videos": [],
+  "patientExperienceSurveys": [
+    {
+      "question": "Ease of scheduling urgent appointments",
+      "questionID": "223",
+      "sortOrder": 1,
+      "resultsSortOrder": 0,
+      "providerScore": 4.0,
+      "providerScorePercent": 80.0,
+      "providerScoreRoundedPercent": 80,
+      "roundedProviderScoreDescription": null,
+      "count": 8,
+      "nationalScore": 4.2,
+      "nationalScorePercent": 84.0,
+      "nationalScoreRoundedPercent": 85,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "below national average"
+    },
+    {
+      "question": "Office environment, cleanliness, comfort, etc.",
+      "questionID": "224",
+      "sortOrder": 2,
+      "resultsSortOrder": 0,
+      "providerScore": 3.8,
+      "providerScorePercent": 76.0,
+      "providerScoreRoundedPercent": 75,
+      "roundedProviderScoreDescription": null,
+      "count": 9,
+      "nationalScore": 4.3,
+      "nationalScorePercent": 86.0,
+      "nationalScoreRoundedPercent": 85,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "below national average"
+    },
+    {
+      "question": "Staff friendliness and courteousness",
+      "questionID": "225",
+      "sortOrder": 3,
+      "resultsSortOrder": 0,
+      "providerScore": 3.8,
+      "providerScorePercent": 76.0,
+      "providerScoreRoundedPercent": 75,
+      "roundedProviderScoreDescription": null,
+      "count": 9,
+      "nationalScore": 4.2,
+      "nationalScorePercent": 84.0,
+      "nationalScoreRoundedPercent": 85,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "below national average"
+    },
+    {
+      "question": "Total wait time (waiting & exam rooms)",
+      "questionID": "226",
+      "sortOrder": 4,
+      "resultsSortOrder": 0,
+      "providerScore": 4.4,
+      "providerScorePercent": 88.0,
+      "providerScoreRoundedPercent": 90,
+      "roundedProviderScoreDescription": null,
+      "count": 7,
+      "nationalScore": 3.9,
+      "nationalScorePercent": 78.0,
+      "nationalScoreRoundedPercent": 80,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "same as national average"
+    },
+    {
+      "question": "Spends appropriate amount of time with patients",
+      "questionID": "227",
+      "sortOrder": 8,
+      "resultsSortOrder": 0,
+      "providerScore": 4.3,
+      "providerScorePercent": 86.0,
+      "providerScoreRoundedPercent": 85,
+      "roundedProviderScoreDescription": null,
+      "count": 9,
+      "nationalScore": 4.2,
+      "nationalScorePercent": 84.0,
+      "nationalScoreRoundedPercent": 85,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "above national average"
+    },
+    {
+      "question": "How well provider listens and answers questions",
+      "questionID": "228",
+      "sortOrder": 7,
+      "resultsSortOrder": 0,
+      "providerScore": 4.1,
+      "providerScorePercent": 82.0,
+      "providerScoreRoundedPercent": 80,
+      "roundedProviderScoreDescription": null,
+      "count": 9,
+      "nationalScore": 4.2,
+      "nationalScorePercent": 84.0,
+      "nationalScoreRoundedPercent": 85,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "below national average"
+    },
+    {
+      "question": "How well provider explains medical condition(s)",
+      "questionID": "229",
+      "sortOrder": 6,
+      "resultsSortOrder": 0,
+      "providerScore": 4.3,
+      "providerScorePercent": 86.0,
+      "providerScoreRoundedPercent": 85,
+      "roundedProviderScoreDescription": null,
+      "count": 9,
+      "nationalScore": 4.2,
+      "nationalScorePercent": 84.0,
+      "nationalScoreRoundedPercent": 85,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "above national average"
+    },
+    {
+      "question": "Level of trust in provider's decisions",
+      "questionID": "230",
+      "sortOrder": 5,
+      "resultsSortOrder": 0,
+      "providerScore": 4.1,
+      "providerScorePercent": 82.0,
+      "providerScoreRoundedPercent": 80,
+      "roundedProviderScoreDescription": null,
+      "count": 9,
+      "nationalScore": 4.2,
+      "nationalScorePercent": 84.0,
+      "nationalScoreRoundedPercent": 85,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "below national average"
+    },
+    {
+      "question": "Likelihood of recommending {Provider Last Name} to family and friends",
+      "questionID": "231",
+      "sortOrder": 9,
+      "resultsSortOrder": 0,
+      "providerScore": 4.0,
+      "providerScorePercent": 80.0,
+      "providerScoreRoundedPercent": 80,
+      "roundedProviderScoreDescription": null,
+      "count": 9,
+      "nationalScore": 4.1,
+      "nationalScorePercent": 82.0,
+      "nationalScoreRoundedPercent": 80,
+      "roundedNationalScoreDescription": null,
+      "comparisonText": "below national average"
+    }
+  ],
+  "boardActions": [],
+  "photoUrls": [
+    {
+      "type": "small",
+      "description": "small image",
+      "width": 60,
+      "height": 80,
+      "url": "/img/silhouettes/silhouette-male_w60h80_v1.jpg"
+    },
+    {
+      "type": "medium",
+      "description": "medium image",
+      "width": 90,
+      "height": 120,
+      "url": "/img/silhouettes/silhouette-male_w90h120_v1.jpg"
+    },
+    {
+      "type": "large",
+      "description": "large image",
+      "width": 120,
+      "height": 160,
+      "url": "/img/silhouettes/silhouette-male_w120h160_v1.jpg"
+    }
+  ],
+  "hasDisplayImage": false,
+  "hasOpenComment": true,
+  "graduationYear": 0,
+  "title": "Dr.",
+  "isOas": false,
+  "oasProviderIdentifiers": [],
+  "prescriberData": [
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "ARTH",
+      "advertisementGroup": "AllPrescriber",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "ARTH",
+      "advertisementGroup": "NonSpecialist",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "HMSClaims",
+      "advertisementType": "decile",
+      "advertisementCode": "CN00000467",
+      "advertisementGroup": "Non-Specialist",
+      "advertisementValueType": "ClaimsCount",
+      "advertisementValue": "2"
+    },
+    {
+      "advertisementCategory": "HMSClaims",
+      "advertisementType": "decile",
+      "advertisementCode": "CN000004C2",
+      "advertisementGroup": "Non-Specialist",
+      "advertisementValueType": "ClaimsCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "HMSClaims",
+      "advertisementType": "decile",
+      "advertisementCode": "CN0000056C",
+      "advertisementGroup": "Non-Specialist",
+      "advertisementValueType": "ClaimsCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "HMSClaims",
+      "advertisementType": "decile",
+      "advertisementCode": "CN000006AB",
+      "advertisementGroup": "Non-Specialist",
+      "advertisementValueType": "ClaimsCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "HMSClaims",
+      "advertisementType": "decile",
+      "advertisementCode": "CN0000C5E9",
+      "advertisementGroup": "Non-Specialist",
+      "advertisementValueType": "ClaimsCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "HMSClaims",
+      "advertisementType": "decile",
+      "advertisementCode": "CN0000C818",
+      "advertisementGroup": "Non-Specialist",
+      "advertisementValueType": "ClaimsCount",
+      "advertisementValue": "10"
+    },
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "COPD",
+      "advertisementGroup": "AllPrescriber",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "COPD",
+      "advertisementGroup": "NonSpecialist",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "DBNO",
+      "advertisementGroup": "AllPrescriber",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "DBNO",
+      "advertisementGroup": "NonSpecialist",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "DEPR",
+      "advertisementGroup": "AllPrescriber",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "DEPR",
+      "advertisementGroup": "NonSpecialist",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "SEXD",
+      "advertisementGroup": "AllPrescriber",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "SEXD",
+      "advertisementGroup": "NonSpecialist",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "1"
+    },
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "SEXH",
+      "advertisementGroup": "AllPrescriber",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "5"
+    },
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "SEXH",
+      "advertisementGroup": "Specialist",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "2"
+    },
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "URIN",
+      "advertisementGroup": "AllPrescriber",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "2"
+    },
+    {
+      "advertisementCategory": "prescription",
+      "advertisementType": "decile",
+      "advertisementCode": "URIN",
+      "advertisementGroup": "NonSpecialist",
+      "advertisementValueType": "nrxCount",
+      "advertisementValue": "2"
+    }
+  ],
+  "microdata": {
+    "name": "Dr. John Prue, MD",
+    "photo": null,
+    "description": "Visit Healthgrades for information on Dr. John Prue, MD Find Phone & Address information, medical practice history, affiliated hospitals and more.",
+    "address": {
+      "type": "http://schema.org/PostalAddress",
+      "streetAddress": "78 Cromwell Ave Ste 1",
+      "addressLocality": "Staten Island",
+      "addressRegion": "NY",
+      "postalCode": "10304",
+      "geoCoordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "type": null
+      }
+    },
+    "hospitalAffiliations": [
+      {
+        "address": {
+          "type": "http://schema.org/PostalAddress",
+          "streetAddress": "475 Seaview Ave",
+          "addressLocality": "Staten Island",
+          "addressRegion": "NY",
+          "postalCode": "10305",
+          "geoCoordinate": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "type": null
+          }
+        },
+        "type": "http://schema.org/Hospital"
+      }
+    ],
+    "aggregateRating": {
+      "ratingValue": "4",
+      "bestRating": "5",
+      "worstRating": "1",
+      "reviewCount": "9",
+      "type": "http://schema.org/AggregateRating"
+    },
+    "geo": {
+      "latitude": 40.59135,
+      "longitude": -74.09885,
+      "type": "http://schema.org/GeoCoordinates"
+    },
+    "medicalSpecialty": "Gynecologic",
+    "type": "http://schema.org/Physician"
+  },
+  "shouldShowVideoContent": false,
+  "availability": [],
+  "primaryOfficeRegionName": "New York",
+  "genderString": "Male",
+  "noSubCodeSuppression": true,
+  "age": 68,
+  "degree": "MD",
+  "dob": "1948-12-10T00:00:00",
+  "firstName": "John",
+  "gender": "M",
+  "middleName": "L",
+  "middleInitialWithPeriod": "L.",
+  "lastName": "Prue",
+  "suffix": null,
+  "languages": [
+    "Italian"
+  ],
+  "prefix": "Dr.",
+  "displayName": "Dr. Prue",
+  "displayNamePossessive": "Dr. Prue's",
+  "displayFullName": "Dr. John Prue, MD"
+}
