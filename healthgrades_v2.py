@@ -512,17 +512,16 @@ def get_provider_profile_data(url, doc):
 		return info_dict
 
 	except ValueError as e:
-		ipdb.set_trace()
 		print e
 		return info_dict.update(survey_scores)
 
 	except TypeError as e:
 		print e
-		ipdb.set_trace()
+		return info_dict.update(survey_scores)
 
 	except NameError as e:
 		print e
-		ipdb.set_trace()
+		return info_dict.update(survey_scores)
 
 	except:
 
@@ -612,8 +611,6 @@ for specialty in specialties_to_search:
 
 	directory = ensure_dir('{}/'.format(specialty.get('what')))
 	merge_csvs(provider_list_filenames[specialty.get('what')], directory)
-	ipdb.set_trace()
-
 
 
 if len(patient_experience_surveys_list) > 0:
