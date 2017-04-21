@@ -41,6 +41,7 @@ patient_experience_surveys_list = []
 malpractices_list_filenames = []
 sanctions_list_filenames = []
 patient_experience_surveys_list_filenames = []
+patient_experience_surveys_list_specialty_filenames = {}
 
 provider_list_filenames = {}
 doctor_errors = []
@@ -53,11 +54,13 @@ def ensure_dir(file_path):
     		return file_path
 
 
-def merge_csvs(filenames, directory):
-	output_filename = directory + 'combined-' + str(time.time()) + '.csv'
+def merge_csvs(filenames, directory, name):
+	output_filename = directory + name + '-combined-' + str(time.time()) + '.csv'
 	output_file = open(output_filename, 'wb')
 	output_writer = csv.writer(output_file)
 	for i, filename in enumerate(filenames):
+		if name == 'patient_experience':
+			filename = 'patient_exp_surveys/' + filename
 		with open(filename, 'rU') as f:
 			reader = csv.reader(f)
 			# if i == 0:
@@ -537,7 +540,7 @@ for specialty in specialties_to_search:
 	search_page = 1
 	counter = 0
 
-	while counter < total_count:
+	while counter < 300:
 		start = time.time()
 
 		search_params['pageNum'] = search_page
@@ -589,6 +592,10 @@ for specialty in specialties_to_search:
 
 		if len(patient_experience_surveys_list) > 100:
 			more_surveys_filename = str('complete-surveys-'  + str(time.time()) + '.csv')
+			if patient_experience_surveys_list_specialty_filenames.get(specialty.get('what')):
+				patient_experience_surveys_list_specialty_filenames[specialty.get('what')].append(more_surveys_filename)
+			else:
+				patient_experience_surveys_list_specialty_filenames[specialty.get('what')] = [more_surveys_filename]
 			create_patient_experience_surveys_csv(more_surveys_filename)
 
 		if len(malpractices_list) > 100:
@@ -610,7 +617,8 @@ for specialty in specialties_to_search:
 		search_page += 1
 
 	directory = ensure_dir('{}/'.format(specialty.get('what')))
-	merge_csvs(provider_list_filenames[specialty.get('what')], directory)
+	merge_csvs(provider_list_filenames[specialty.get('what')], directory, 'info')
+	merge_csvs(patient_experience_surveys_list_specialty_filenames[specialty.get('what')], directory, 'patient_experience')
 
 
 if len(patient_experience_surveys_list) > 0:
@@ -626,5 +634,6 @@ if len(sanctions_list) > 0:
 	sanctions_filename = str('complete-sanctions-' + str(time.time()) + '.csv')
 	create_sanctions_csv(sanctions_filename)
 
+pprint.pprint(doctor_errors)
 
 ipdb.set_trace()
