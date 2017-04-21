@@ -15,21 +15,16 @@ base_url = (
 other_params = {
 	'isFirstRequest': True,
 	'sort.provider': 'bestmatch',
-	'sort.practice': 'bestmatch',
-	'entityCode': None,
-	'requestId': None,
-	'sessionId': None
+	# 'sort.practice': 'bestmatch',
+	# 'entityCode': None,
+	# 'requestId': None,
+	# 'sessionId': None
 }
 
 search_params = {
-	'category': 'all',
 	'distances': 'National',
 	'pageNum': 1,
-	'pageSize.practice': 8,
 	'pageSize.provider': 100,
-	'searchType': 'SpecialtyVertical',
-	'what': 'Orthopaedics',
-
 }
 
 specialties = [
@@ -37,18 +32,26 @@ specialties = [
 	# 	'what': 'Orthopaedics',
 	# 	'searchType': 'SpecialtyVertical'
 	# }
-	{
-		'what': 'Orthopedic Surgery',
-		'searchType': 'Practicing Specialty'
-	},
+	# {
+	# 	'what': 'Orthopedic Surgery',
+	# 	'searchType': 'PracticingSpecialty'
+	# },
 	# {
 	# 	'what': 'Pulmonology',
-	# 	'searchType': 'Practicing Specialty'
+	# 	'searchType': 'PracticingSpecialty'
 	# },
 	# {
 	# 	'what': 'Obstetrics & Gynecology',
-	# 	'searchType': 'Practicing Specialty'
-	# }
+	# 	'searchType': 'PracticingSpecialty'
+	# },
+	# {
+	# 	'what': 'Family Medicine',
+	# 	'searchType': 'PracticingSpecialty'
+	# },
+	{
+		'what': 'Internal Medicine',
+		'searchType': 'PracticingSpecialty'
+	}
 ]
 
 def get_provider_profile_data(url, doc):
@@ -101,7 +104,7 @@ def get_provider_profile_data(url, doc):
 
 	try:
 		profile_provider_json = json.loads(profile_provider)
-		locations_provider_json = json.loads(locations_provider)
+		# locations_provider_json = json.loads(locations_provider)
 
 
 		# I don't think you are going to get enough of these for it to be worth spending the time to parse it out
@@ -113,7 +116,7 @@ def get_provider_profile_data(url, doc):
 		degree = profile_provider_json.get('degree')
 		healthgrades_id = profile_provider_json.get('id')
 		languages = profile_provider_json.get('languages')
-		locations = [location.get('Name') for location in locations_provider_json]
+		# locations = [location.get('Name') for location in locations_provider_json]
 		educations = profile_provider_json.get('education')
 		med_school_filter = [[education['name'], education['year']] for education in educations if education['educationType'] == 'MEDSCH']
 		med_school = med_school_filter[0][0] if len(med_school_filter) else None
@@ -170,7 +173,7 @@ def get_provider_profile_data(url, doc):
 			'fellow_3_year': fellow_dict.get('fellow_3_year'),
 			'insurances': insurances,
 			'languages': languages,
-			'locations': locations,
+			# 'locations': locations,
 			'malpractices': malpractices,
 			'medicare': medicare,
 			'sactions': sanctions,
@@ -219,6 +222,7 @@ for specialty in specialties:
 		search = result.get('search')
 		search_results = search.get('searchResults')
 		total_count = search_results.get('totalCount')
+		ipdb.set_trace()
 		providers = search_results.get('provider')
 		provider_list = providers.get('results')
 
