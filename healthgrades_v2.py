@@ -78,7 +78,7 @@ def create_errors_csv(filename):
 		for doctor in doctor_errors:
 			try:
 				writer.writerow(doctor.values())
-			else:
+			except:
 				continue
 
 
