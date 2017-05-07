@@ -48,10 +48,10 @@ doctor_errors = []
 
 
 def ensure_dir(file_path):
-    		directory = os.path.dirname(file_path)
-    		if not os.path.exists(directory):
-        		os.makedirs(directory)
-    		return file_path
+	directory = os.path.dirname(file_path)
+	if not os.path.exists(directory):
+		os.makedirs(directory)
+	return file_path
 
 
 def merge_csvs(filenames, directory, name):
@@ -68,6 +68,19 @@ def merge_csvs(filenames, directory, name):
 			# for row in reader[1:]:
 			for row in reader:
 				output_writer.writerow(row)
+
+
+def create_errors_csv(filename):
+	global doctor_errors
+	with open(filename) as csvfile:
+		writer = csv.writer(csvfile)
+		writer.writerow(['name', 'healthgrades_id'])
+		for doctor in doctor_errors:
+			try:
+				writer.writerow(doctor.values())
+			else:
+				continue
+
 
 
 def create_malpractices_csv(filename):
@@ -585,7 +598,7 @@ for specialty in specialties_to_search:
 					writer.writerow(doctor.values())
 				except:
 					print('error with: ' + doctor['name'])
-					doctor_errors.append((doctor['name'], doctor['healthgrades_id']))
+					doctor_errors.append({'name':doctor['name'], 'healthgrades_id': doctor['healthgrades_id']})
 					continue
 		
 		if provider_list_filenames.get(specialty.get('what')):
@@ -639,5 +652,8 @@ if len(sanctions_list) > 0:
 	create_sanctions_csv(sanctions_filename)
 
 pprint.pprint(doctor_errors)
+directory = ensure_dir('errors/')
+errors_filename = directory + '-' + str(time.time()) + '.csv'
+create_errors_csv(errors_filename)
 
 ipdb.set_trace()
